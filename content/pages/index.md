@@ -606,7 +606,7 @@ sections:
       pertinents à vos besoins actuellement
     actions:
       - type: Link
-        label: See all posts
+        label: voir tous les guides pour la création d'entreprise
         url: /blog
         showIcon: true
         icon: arrowRight
