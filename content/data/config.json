@@ -30,7 +30,7 @@
         "secondaryLinks": [
             {
                 "type": "Button",
-                "label": "Sign up",
+                "label": "CONTACT",
                 "url": "/",
                 "altText": "Sign up",
                 "style": "primary"
