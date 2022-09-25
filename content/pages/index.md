@@ -602,8 +602,8 @@ sections:
     colors: colors-a
     variant: variant-b
     title: >-
-      We sometimes write things. You should read it, it might shed some light on
-      why we’re doing what we’re doing
+      Outre que les modules de formations, vous trouverez ces articles
+      pertinents à vos besoins actuellement
     actions:
       - type: Link
         label: See all posts
