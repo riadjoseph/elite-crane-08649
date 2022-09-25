@@ -22,7 +22,7 @@
         "letterSpacing": "normal"
     },
     "h4": {
-        "size": "2xl",
+        "size": "xl",
         "weight": "bold",
         "decoration": "none",
         "case": "none",
