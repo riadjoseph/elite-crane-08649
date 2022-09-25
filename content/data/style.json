@@ -42,7 +42,6 @@
         "case": "none",
         "letterSpacing": "normal"
     },
-    "fontBody": "sansAlt",
     "main": "#f6f1ed",
     "light": "#ffffff",
     "onLight": "#000000",
