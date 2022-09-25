@@ -52,8 +52,8 @@ sections:
     colors: colors-f
     backgroundSize: inset
     text: >
-      Learn how top tech companies have learned working remote using our
-      product.
+      Ce que Rezopreneurs leur a apporté et comment ils ont mis en pratique leur
+      vision collectives.
     badge:
       type: Badge
       styles:
