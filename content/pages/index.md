@@ -111,7 +111,7 @@ sections:
     subtitle: >-
       Comment 3 amis ont démarré et scalé leur entreprise de revente de
       vêtements
-    title: '3 amis '
+    title: '3 amis, 1 projet'
   - colors: colors-h
     subtitle: Ils en parlent
     elementId: ''
