@@ -642,7 +642,7 @@ sections:
     showDate: true
   - colors: colors-f
     elementId: ''
-    title: Need Answers?
+    title: Des réponses à vos questions
     items:
       - question: How is this different from what we have today?
         answer: >-
