@@ -5,7 +5,7 @@ sections:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-a
-    title: Une formation en 9 modules pour bien démarrer et réussir son entreprise
+    title: Une formation en 9 modules pour bien démarrer et réussir son entreprise.
     subtitle: 'One platform, one community.'
     actions:
       - type: Button
