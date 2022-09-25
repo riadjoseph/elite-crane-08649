@@ -6,7 +6,7 @@ sections:
     elementId: homepage-hero-1
     colors: colors-a
     title: Une formation en 9 modules pour bien démarrer et réussir son entreprise.
-    subtitle: 'One platform, one community.'
+    subtitle: '100% en ligne, avec un coach'
     actions:
       - type: Button
         label: Get Started
