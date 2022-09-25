@@ -392,6 +392,118 @@ sections:
         textAlign: center
       actions:
         justifyContent: flex-start
+  - type: FeaturedItemsSection
+    colors: colors-a
+    elementId: ''
+    title: null
+    subtitle: null
+    items:
+      - title: Marketing digital
+        text: >
+          Learn how top tech companies have learned working remote using our
+          product.
+        featuredImage:
+          url: /images/faster.svg
+          altText: altText of the image
+          caption: Caption of the image
+          elementId: ''
+          styles:
+            self:
+              opacity: 100
+          type: ImageBlock
+        actions: []
+        styles:
+          self:
+            textAlign: left
+            borderColor: border-dark
+            borderWidth: 1
+            borderStyle: solid
+            padding:
+              - pt-4
+              - pl-4
+              - pb-6
+              - pr-4
+        type: FeaturedItem
+      - title: Business plan
+        text: >
+          Learn how top tech companies have learned working remote using our
+          product.
+        featuredImage:
+          url: /images/smarter.svg
+          altText: altText of the image
+          caption: Caption of the image
+          elementId: ''
+          styles:
+            self:
+              opacity: 100
+          type: ImageBlock
+        actions: []
+        styles:
+          self:
+            textAlign: left
+            borderColor: border-dark
+            borderWidth: 1
+            borderStyle: solid
+            padding:
+              - pt-4
+              - pl-4
+              - pb-6
+              - pr-4
+        type: FeaturedItem
+      - title: Management
+        text: >
+          Learn how top tech companies have learned working remote using our
+          product.
+        featuredImage:
+          url: /images/focused.svg
+          altText: altText of the image
+          caption: Caption of the image
+          elementId: ''
+          styles:
+            self:
+              opacity: 100
+          type: ImageBlock
+        actions: []
+        styles:
+          self:
+            textAlign: left
+            borderColor: border-dark
+            borderWidth: 1
+            borderStyle: solid
+            padding:
+              - pt-4
+              - pl-4
+              - pb-6
+              - pr-4
+        type: FeaturedItem
+    actions: []
+    columns: 3
+    enableHover: false
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-28
+          - pb-28
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderRadius: none
+        borderWidth: 0
+        borderStyle: none
+        borderColor: border-dark
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+      actions:
+        justifyContent: flex-start
   - elementId: ''
     colors: colors-a
     title: 'A great feature, we’re proud of'
