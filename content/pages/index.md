@@ -6,7 +6,7 @@ sections:
     elementId: homepage-hero-1
     colors: colors-a
     title: Une formation en 9 modules pour bien démarrer et réussir son entreprise.
-    subtitle: '100% en ligne, avec un coach'
+    subtitle: '100% en ligne, avec votre coach, et financée par '
     actions:
       - type: Button
         label: Get Started
