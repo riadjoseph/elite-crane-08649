@@ -180,7 +180,7 @@ sections:
       limitées pour garantir la qualité.
     items:
       - type: FeaturedItem
-        title: Faster
+        title: Marketing digital
         text: >
           Learn how top tech companies have learned working remote using our
           product.
