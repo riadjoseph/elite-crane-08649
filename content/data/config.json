@@ -32,7 +32,7 @@
                 "type": "Button",
                 "label": "CONTACT",
                 "url": "/",
-                "altText": "Sign up",
+                "altText": "CONTACT",
                 "style": "primary"
             }
         ],
