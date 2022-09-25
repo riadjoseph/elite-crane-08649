@@ -108,6 +108,9 @@ sections:
         self:
           opacity: 100
       type: ImageBlock
+    subtitle: >-
+      Comment 3 amis ont démarré et scalé leur entreprise de revente de
+      vêtements
   - colors: colors-h
     subtitle: Ils en parlent
     elementId: ''
