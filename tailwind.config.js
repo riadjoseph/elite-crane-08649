@@ -34,7 +34,7 @@ module.exports = {
             },
             fontFamily: {
                 sans: ['Roboto', 'sans-serif'],
-                sansAlt: ['Noto Sans Display', 'sans-serif']
+                sansAlt: ['Roboto', 'sans-serif']
             }
         }
     },
