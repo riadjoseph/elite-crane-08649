@@ -57,7 +57,6 @@ sections:
       product.
     badge:
       type: Badge
-      label: Case study
       styles:
         self:
           textAlign: left
