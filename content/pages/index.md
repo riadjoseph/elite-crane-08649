@@ -507,9 +507,8 @@ sections:
   - elementId: ''
     colors: colors-a
     title: Votre compte CPF
-    text: >
-      Share WIP, comment on each other’s work, approve what’s ready to go, ship
-      together
+    text: |
+      Avec votre compte CPF, vous financez votre formation entièrement
     actions:
       - type: Button
         label: Get Started
