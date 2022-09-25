@@ -554,9 +554,8 @@ sections:
   - elementId: ''
     colors: colors-a
     title: Aides pour la Création d'entreprise
-    text: >
-      Share WIP, comment on each other’s work, approve what’s ready to go, ship
-      together
+    text: |
+      Les aides auxquels vous accèdez en démarrant votre entreprise.
     actions:
       - type: Button
         label: Get Started
