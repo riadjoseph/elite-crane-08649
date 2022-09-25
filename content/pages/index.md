@@ -787,4 +787,8 @@ sections:
         textAlign: center
       text:
         textAlign: center
+metaTags:
+  - type: MetaTag
+    property: 'og:title'
+    content: ''
 ---
