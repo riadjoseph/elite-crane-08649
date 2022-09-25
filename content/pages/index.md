@@ -110,7 +110,7 @@ sections:
           opacity: 100
       type: ImageBlock
   - colors: colors-h
-    subtitle: Trusted by
+    subtitle: Ils en parlent
     elementId: ''
     images:
       - type: ImageBlock
