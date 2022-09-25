@@ -53,7 +53,7 @@ sections:
     backgroundSize: inset
     title: >-
       Comment 3 amis ont démarré et scalé leur entreprise de revente de
-      vêtements 
+      vêtements
     text: >
       Learn how top tech companies have learned working remote using our
       product.
