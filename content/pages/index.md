@@ -506,7 +506,7 @@ sections:
         justifyContent: flex-start
   - elementId: ''
     colors: colors-a
-    title: 'A great feature, we’re proud of'
+    title: Votre compte CPF
     text: >
       Share WIP, comment on each other’s work, approve what’s ready to go, ship
       together
