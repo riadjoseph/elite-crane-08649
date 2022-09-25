@@ -176,8 +176,8 @@ sections:
     elementId: ''
     title: Les modules de la formation
     subtitle: >-
-      These are all excellent features that will provide exactly the things
-      you’re looking for.
+      Financeable et 100% en ligne. Ne ratez pas votre opportunité, places
+      limitées pour garantir la qualité.
     items:
       - type: FeaturedItem
         title: Faster
