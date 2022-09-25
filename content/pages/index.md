@@ -553,7 +553,7 @@ sections:
     type: FeatureHighlightSection
   - elementId: ''
     colors: colors-a
-    title: And a strong value proposition
+    title: Aides pour la Création d'entreprise
     text: >
       Share WIP, comment on each other’s work, approve what’s ready to go, ship
       together
