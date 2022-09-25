@@ -424,7 +424,7 @@ sections:
               - pb-6
               - pr-4
         type: FeaturedItem
-      - title: Business plan
+      - title: L'Arabe et comprendre la culture
         text: >
           Learn how top tech companies have learned working remote using our
           product.
