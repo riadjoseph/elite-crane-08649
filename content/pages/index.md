@@ -60,6 +60,7 @@ sections:
       styles:
         self:
           textAlign: left
+      label: étude de cas
     actions:
       - type: Button
         label: Get Started
