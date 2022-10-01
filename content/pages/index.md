@@ -493,11 +493,6 @@ sections:
       Sollicitez une coaching individuel 100% gratuit afin de vous aider à
       developper votre projet.
     actions:
-      - type: Button
-        label: Get Started
-        url: 'https://www.stackbit.com/'
-        style: primary
-        elementId: hero-main-button
       - type: Link
         label: Learn More
         url: /
