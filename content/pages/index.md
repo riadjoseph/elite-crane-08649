@@ -98,9 +98,7 @@ sections:
         self:
           opacity: 100
       type: ImageBlock
-    subtitle: >-
-      Comment 3 amis ont démarré et scalé leur entreprise de revente de
-      vêtements
+    subtitle: 'Seul, on va plus vite. Ensemble, on va plus loin.'
     title: Être épaulé
   - colors: colors-h
     subtitle: Ils en parlent
