@@ -96,7 +96,7 @@ sections:
     type: FeatureHighlightSection
     media:
       url: /images/hero-3.jpg
-      altText: Where did everyone go?
+      altText: Etude de cas
       caption: Team meeting
       elementId: ''
       styles:
