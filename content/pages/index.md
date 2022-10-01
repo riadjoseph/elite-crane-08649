@@ -97,7 +97,7 @@ sections:
     media:
       url: /images/hero-3.jpg
       altText: Etude de cas
-      caption: Team meeting
+      caption: Team meeting avec Rezopreneurs
       elementId: ''
       styles:
         self:
