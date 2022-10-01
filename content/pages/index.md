@@ -536,8 +536,9 @@ sections:
   - elementId: ''
     colors: colors-a
     title: Nos formateurs
-    text: |
-      Les aides auxquels vous accèdez en démarrant votre entreprise.
+    text: >
+      Nos formateurs sont choisis pour leurs expertises métiers, leurs
+      compétences pédagogiques et leur connaissance de l'entreprise.
     actions:
       - type: Button
         label: Get Started
