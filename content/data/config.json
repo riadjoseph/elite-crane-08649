@@ -11,7 +11,8 @@
                 "type": "Link",
                 "label": "ACCUEIL",
                 "url": "/",
-                "altText": ""
+                "altText": "",
+                "showIcon": true
             },
             {
                 "type": "Link",
