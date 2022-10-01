@@ -577,6 +577,7 @@ sections:
       actions:
         justifyContent: flex-start
     type: FeatureHighlightSection
+    backgroundSize: inset
   - elementId: ''
     colors: colors-a
     variant: variant-b
