@@ -535,7 +535,7 @@ sections:
     type: FeatureHighlightSection
   - elementId: ''
     colors: colors-a
-    title: Nos Formateurs
+    title: Nos ormateurs
     text: |
       Les aides auxquels vous accèdez en démarrant votre entreprise.
     actions:
