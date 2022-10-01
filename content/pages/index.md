@@ -545,7 +545,7 @@ sections:
         showIcon: true
         icon: arrowRight
         iconPosition: right
-        label: Posez des questions
+        label: Posez vos questions
     media:
       type: ImageBlock
       url: /images/hero-2.png
