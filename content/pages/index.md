@@ -176,7 +176,7 @@ sections:
     elementId: ''
     title: Les modules de la formation
     subtitle: >-
-      Financeable et 100% en ligne. Ne ratez pas votre opportunité, places
+      Financée  et 100% en ligne. Ne ratez pas votre opportunité, places
       limitées pour garantir la qualité.
     items:
       - type: FeaturedItem
