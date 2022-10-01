@@ -255,7 +255,7 @@ sections:
               - pb-6
               - pr-4
     columns: 3
-    enableHover: false
+    enableHover: true
     styles:
       self:
         height: auto
