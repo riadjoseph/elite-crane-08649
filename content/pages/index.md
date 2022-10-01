@@ -44,7 +44,7 @@ sections:
       actions:
         justifyContent: flex-start
   - elementId: ''
-    colors: colors-f
+    colors: colors-e
     backgroundSize: inset
     text: >
       Ce que Rezopreneurs leur a apporté et comment ils ont mis en pratique leur
