@@ -49,12 +49,6 @@ sections:
     text: >
       Ce que Rezopreneurs leur a apporté et comment ils ont mis en pratique leur
       vision collectives.
-    badge:
-      type: Badge
-      styles:
-        self:
-          textAlign: left
-      label: être épaulé
     actions:
       - type: Button
         label: Recevoir l'étude de cas
