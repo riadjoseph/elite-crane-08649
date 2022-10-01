@@ -47,8 +47,8 @@ sections:
     colors: colors-e
     backgroundSize: inset
     text: >
-      Ce que Rezopreneurs leur a apporté et comment ils ont mis en pratique leur
-      vision collectives.
+      Rezopreneurs, c'est pour toute personne souhaitant ou ayant créer une
+      entreprise.
     actions:
       - type: Button
         label: Recevoir l'étude de cas
