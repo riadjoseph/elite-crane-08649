@@ -6,7 +6,9 @@ sections:
     elementId: homepage-hero-1
     colors: colors-a
     title: Une formation en 9 modules pour bien démarrer et réussir son entreprise.
-    subtitle: '100% en ligne, avec votre coach, et financée par le CPF'
+    subtitle: >-
+      Une formation 100% en ligne, à domicile d’une durée de 10 jours avec un
+      coach en direct.
     actions:
       - type: Button
         label: En savoir plus
