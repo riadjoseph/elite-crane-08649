@@ -55,7 +55,7 @@
     "onComplementary": "#000000",
     "buttonPrimary": {
         "weight": "normal",
-        "case": "none",
+        "case": "uppercase",
         "letterSpacing": "normal",
         "borderRadius": "none",
         "horizontalPadding": 30,
