@@ -535,7 +535,7 @@ sections:
     type: FeatureHighlightSection
   - elementId: ''
     colors: colors-a
-    title: Aides pour la Création d'entreprise
+    title: Nos Formateurs
     text: |
       Les aides auxquels vous accèdez en démarrant votre entreprise.
     actions:
