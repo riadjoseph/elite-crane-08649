@@ -60,6 +60,7 @@ sections:
         label: Recevoir l'étude de cas
         url: /
         style: primary
+        altText: Recevoir l'étude de cas
     styles:
       self:
         height: auto
