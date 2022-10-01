@@ -33,7 +33,7 @@ module.exports = {
                 '9/16': '56.25%'
             },
             fontFamily: {
-                sans: ['Roboto', 'sans-serif'],
+                sans: ['Montserrat', 'sans-serif'],
                 sansAlt: ['Roboto', 'sans-serif']
             }
         }
