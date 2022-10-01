@@ -9,7 +9,7 @@ sections:
     subtitle: '100% en ligne, avec votre coach, et financée par le CPF'
     actions:
       - type: Button
-        label: Get Started
+        label: En savoir plus
         url: 'https://www.stackbit.com/'
         style: primary
       - type: Link
