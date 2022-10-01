@@ -12,6 +12,7 @@ sections:
         label: En savoir plus
         url: 'https://www.stackbit.com/'
         style: primary
+        altText: En savoir plus
       - type: Link
         label: Learn More
         url: /
