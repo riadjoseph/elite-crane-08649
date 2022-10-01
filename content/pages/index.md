@@ -545,6 +545,7 @@ sections:
         showIcon: true
         icon: arrowRight
         iconPosition: right
+        label: Pose
     media:
       type: ImageBlock
       url: /images/hero-2.png
