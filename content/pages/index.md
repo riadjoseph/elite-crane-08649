@@ -54,7 +54,7 @@ sections:
         label: étude de cas
         url: /
         style: primary
-        altText: Recevoir l'étude de cas
+        altText: Etude de cas
     styles:
       self:
         height: auto
