@@ -12,7 +12,7 @@
                 "label": "ACCUEIL",
                 "url": "/",
                 "altText": "",
-                "showIcon": true
+                "showIcon": false
             },
             {
                 "type": "Link",
