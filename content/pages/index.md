@@ -494,7 +494,7 @@ sections:
       developper votre projet.
     actions:
       - type: Link
-        label: Learn More
+        label: En savoir plus
         url: /
         showIcon: true
         icon: arrowRight
