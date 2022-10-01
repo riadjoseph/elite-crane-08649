@@ -533,6 +533,7 @@ sections:
       actions:
         justifyContent: flex-start
     type: FeatureHighlightSection
+    subtitle: finance votre formation
   - elementId: ''
     colors: colors-a
     title: Nos formateurs
