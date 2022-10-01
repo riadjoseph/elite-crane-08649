@@ -57,7 +57,7 @@ sections:
       label: étude de cas
     actions:
       - type: Button
-        label: Recevoir l'etude de cas
+        label: Recevoir l'étude de cas
         url: /
         style: primary
     styles:
