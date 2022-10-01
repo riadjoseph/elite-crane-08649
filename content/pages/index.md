@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Rezopreneurs
 layout: PageLayout
 sections:
   - type: HeroSection
