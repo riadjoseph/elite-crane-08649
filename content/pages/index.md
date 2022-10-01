@@ -101,7 +101,7 @@ sections:
     subtitle: >-
       Comment 3 amis ont démarré et scalé leur entreprise de revente de
       vêtements
-    title: Ê
+    title: Être épaulé
   - colors: colors-h
     subtitle: Ils en parlent
     elementId: ''
