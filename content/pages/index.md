@@ -540,11 +540,6 @@ sections:
       Nos formateurs sont choisis pour leurs expertises métiers, leurs
       compétences pédagogiques et leur connaissance de l'entreprise.
     actions:
-      - type: Button
-        label: Get Started
-        url: 'https://www.stackbit.com/'
-        style: primary
-        elementId: hero-main-button
       - type: Link
         label: Learn More
         url: /
