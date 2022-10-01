@@ -60,12 +60,6 @@ sections:
         label: Get Started
         url: /
         style: primary
-      - type: Link
-        label: Watch Video
-        url: /
-        showIcon: true
-        icon: playCircle
-        iconPosition: left
     styles:
       self:
         height: auto
