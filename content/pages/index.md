@@ -51,7 +51,7 @@ sections:
       entreprise.
     actions:
       - type: Button
-        label: étude de cas
+        label: Etude de cas
         url: /
         style: primary
         altText: Etude de cas
