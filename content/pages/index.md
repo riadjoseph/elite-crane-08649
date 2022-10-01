@@ -10,7 +10,7 @@ sections:
     actions:
       - type: Button
         label: En savoir plus
-        url: 'https://www.stackbit.com/'
+        url: /
         style: primary
         altText: En savoir plus
     media:
