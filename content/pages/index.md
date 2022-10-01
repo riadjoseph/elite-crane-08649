@@ -546,7 +546,7 @@ sections:
         altText: Posez vos questions
     media:
       type: ImageBlock
-      url: /images/hero-2.png
+      url: /images/careers.jpg
       altText: Hero section image
     styles:
       self:
