@@ -44,7 +44,7 @@ sections:
       actions:
         justifyContent: flex-start
   - elementId: ''
-    colors: colors-e
+    colors: colors-f
     backgroundSize: inset
     text: >
       Rezopreneurs, c'est pour toute personne souhaitant ou ayant créer une
