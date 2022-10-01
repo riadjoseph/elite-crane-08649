@@ -13,12 +13,6 @@ sections:
         url: 'https://www.stackbit.com/'
         style: primary
         altText: En savoir plus
-      - type: Link
-        label: Learn More
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
     media:
       type: ImageBlock
       url: /images/hero.png
