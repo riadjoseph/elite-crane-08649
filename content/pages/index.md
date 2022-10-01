@@ -499,6 +499,7 @@ sections:
         showIcon: true
         icon: arrowRight
         iconPosition: right
+        altText: En savoir plus
     media:
       type: ImageBlock
       url: /images/hero-1.png
