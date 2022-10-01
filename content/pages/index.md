@@ -489,8 +489,9 @@ sections:
   - elementId: ''
     colors: colors-a
     title: Coaching personnalisé
-    text: |
-      Avec votre compte CPF, vous financez votre formation entièrement
+    text: >
+      Sollicitez une coaching individuel 100% gratuit afin de vous aider à
+      developper votre projet.
     actions:
       - type: Button
         label: Get Started
