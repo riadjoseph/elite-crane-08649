@@ -50,7 +50,7 @@
         "logo": {
             "altText": "Logo Rezo'preneurs",
             "caption": "Rezo'preneurs",
-            "elementId": "",
+            "elementId": "logo",
             "styles": {
                 "self": {
                     "opacity": 100
