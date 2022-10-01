@@ -541,7 +541,7 @@ sections:
       compétences pédagogiques et leur connaissance de l'entreprise.
     actions:
       - type: Link
-        label: Learn More
+        label: Comm
         url: /
         showIcon: true
         icon: arrowRight
