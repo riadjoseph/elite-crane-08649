@@ -488,7 +488,7 @@ sections:
         justifyContent: flex-start
   - elementId: ''
     colors: colors-a
-    title: 'Coaching '
+    title: Coaching personnalisé
     text: |
       Avec votre compte CPF, vous financez votre formation entièrement
     actions:
