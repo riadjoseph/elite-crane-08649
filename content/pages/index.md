@@ -54,7 +54,7 @@ sections:
       styles:
         self:
           textAlign: left
-      label: étude de cas
+      label: être épaulé
     actions:
       - type: Button
         label: Recevoir l'étude de cas
