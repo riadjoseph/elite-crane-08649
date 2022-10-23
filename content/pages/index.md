@@ -13,6 +13,7 @@ sections:
         url: /
         style: primary
         altText: En savoir plus
+        icon: chevronRight
     media:
       type: ImageBlock
       url: /images/hero.png
