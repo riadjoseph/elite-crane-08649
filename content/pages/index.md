@@ -94,7 +94,7 @@ sections:
       type: ImageBlock
     subtitle: 'Seul, on va plus vite. Ensemble, on va plus loin.'
     title: Être épaulé
-  - colors: colors-h
+  - colors: colors-a
     subtitle: Ils en parlent
     elementId: ''
     images:
