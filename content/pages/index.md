@@ -46,56 +46,6 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-  - elementId: ''
-    colors: colors-f
-    text: >
-      Seul, on va plus vite. Ensemble, on va plus loin. Rezopreneurs, c'est pour
-      toute personne souhaitant ou ayant créer une entreprise.
-    actions:
-      - type: Button
-        label: Etude de cas
-        url: /
-        style: primary
-        altText: Etude de cas
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-16
-          - pb-16
-          - pl-16
-          - pr-16
-        justifyContent: center
-        flexDirection: row
-        alignItems: center
-        borderRadius: none
-        boxShadow: xx-large
-        borderColor: border-primary
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    type: FeatureHighlightSection
-    media:
-      url: /images/hero-3.jpg
-      altText: Etude de cas
-      caption: Team meeting avec Rezopreneurs
-      elementId: ''
-      styles:
-        self:
-          opacity: 100
-      type: ImageBlock
-    title: Être épaulé
   - colors: colors-a
     elementId: ''
     images:
@@ -160,6 +110,56 @@ sections:
     imageSizePx: 240
     type: MediaGallerySection
     title: Ils en parlent
+  - elementId: ''
+    colors: colors-f
+    text: >
+      Seul, on va plus vite. Ensemble, on va plus loin. Rezopreneurs, c'est pour
+      toute personne souhaitant ou ayant créer une entreprise.
+    actions:
+      - type: Button
+        label: Etude de cas
+        url: /
+        style: primary
+        altText: Etude de cas
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-16
+          - pb-16
+          - pl-16
+          - pr-16
+        justifyContent: center
+        flexDirection: row
+        alignItems: center
+        borderRadius: none
+        boxShadow: xx-large
+        borderColor: border-primary
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
+    type: FeatureHighlightSection
+    media:
+      url: /images/hero-3.jpg
+      altText: Etude de cas
+      caption: Team meeting avec Rezopreneurs
+      elementId: ''
+      styles:
+        self:
+          opacity: 100
+      type: ImageBlock
+    title: Être épaulé
   - colors: colors-a
     elementId: ''
     title: Les modules de la formation
