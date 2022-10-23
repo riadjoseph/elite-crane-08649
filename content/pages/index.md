@@ -134,7 +134,7 @@ sections:
             opacity: 100
     spacing: 1
     columns: 2
-    aspectRatio: '16:9'
+    aspectRatio: auto
     showCaption: false
     enableHover: false
     styles:
