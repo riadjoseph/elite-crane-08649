@@ -34,7 +34,7 @@ module.exports = {
             },
             fontFamily: {
                 sans: ['Montserrat', 'sans-serif'],
-                sansAlt: ['Rubik', 'sans-serif']
+                sansAlt: ['Poppins', 'sans-serif']
             }
         }
     },
