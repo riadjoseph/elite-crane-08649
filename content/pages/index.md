@@ -45,7 +45,6 @@ sections:
         justifyContent: flex-start
   - elementId: ''
     colors: colors-f
-    backgroundSize: inset
     text: >
       Rezopreneurs, c'est pour toute personne souhaitant ou ayant créer une
       entreprise.
