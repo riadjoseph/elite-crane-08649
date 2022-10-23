@@ -117,10 +117,6 @@ sections:
         altText: Xbox
         caption: Xbox
       - type: ImageBlock
-        url: /images/skype.svg
-        altText: Skype
-        caption: Skype
-      - type: ImageBlock
         url: /images/Capital-Management.png
         altText: altText of the image
         caption: Caption of the image
