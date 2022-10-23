@@ -132,7 +132,7 @@ sections:
         styles:
           self:
             opacity: 100
-    spacing: 2
+    spacing: 1
     columns: 4
     aspectRatio: auto
     showCaption: false
