@@ -133,7 +133,7 @@ sections:
           self:
             opacity: 100
     spacing: 1
-    columns: 2
+    columns: 4
     aspectRatio: auto
     showCaption: false
     enableHover: false
