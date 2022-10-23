@@ -101,10 +101,6 @@ sections:
     elementId: ''
     images:
       - type: ImageBlock
-        url: /images/playstation.svg
-        altText: PlayStation
-        caption: PlayStation
-      - type: ImageBlock
         url: /images/gatsby.svg
         altText: Gatsby
         caption: Gatsby
