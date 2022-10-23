@@ -101,10 +101,6 @@ sections:
     elementId: ''
     images:
       - type: ImageBlock
-        url: /images/apple.svg
-        altText: Apple
-        caption: Apple
-      - type: ImageBlock
         url: /images/google-play.svg
         altText: Google Play
         caption: Google Play
