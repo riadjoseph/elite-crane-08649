@@ -101,10 +101,6 @@ sections:
     elementId: ''
     images:
       - type: ImageBlock
-        url: /images/gatsby.svg
-        altText: Gatsby
-        caption: Gatsby
-      - type: ImageBlock
         url: /images/Capital-Management.png
         altText: altText of the image
         caption: Caption of the image
