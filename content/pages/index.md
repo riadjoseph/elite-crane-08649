@@ -121,10 +121,6 @@ sections:
         altText: Skype
         caption: Skype
       - type: ImageBlock
-        url: /images/zcool.svg
-        altText: ZCOOL
-        caption: ZCOOL
-      - type: ImageBlock
         url: /images/Capital-Management.png
         altText: altText of the image
         caption: Caption of the image
