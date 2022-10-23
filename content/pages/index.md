@@ -46,7 +46,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-  - colors: colors-f
+  - colors: colors-h
     elementId: ''
     images:
       - type: ImageBlock
