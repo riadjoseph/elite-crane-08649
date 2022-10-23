@@ -97,7 +97,6 @@ sections:
       type: ImageBlock
     title: Être épaulé
   - colors: colors-a
-    subtitle: Ils en parlent
     elementId: ''
     images:
       - type: ImageBlock
