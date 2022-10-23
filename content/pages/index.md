@@ -73,6 +73,7 @@ sections:
         alignItems: center
         borderRadius: none
         boxShadow: xx-large
+        borderColor: border-primary
       title:
         textAlign: left
       subtitle:
