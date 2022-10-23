@@ -159,6 +159,7 @@ sections:
         textAlign: center
     imageSizePx: 240
     type: MediaGallerySection
+    title: Ils en parlent
   - colors: colors-a
     elementId: ''
     title: Les modules de la formation
