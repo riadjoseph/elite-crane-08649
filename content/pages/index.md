@@ -101,7 +101,7 @@ sections:
         justifyContent: center
         borderRadius: x-small
         borderWidth: 1
-        borderStyle: none
+        borderStyle: solid
         borderColor: border-dark
       title:
         textAlign: center
