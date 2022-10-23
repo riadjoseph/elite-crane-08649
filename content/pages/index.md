@@ -15,6 +15,7 @@ sections:
         altText: En savoir plus
         icon: chevronRight
         iconPosition: right
+        showIcon: true
     media:
       type: ImageBlock
       url: /images/hero.png
