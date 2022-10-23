@@ -101,10 +101,6 @@ sections:
     elementId: ''
     images:
       - type: ImageBlock
-        url: /images/google-play.svg
-        altText: Google Play
-        caption: Google Play
-      - type: ImageBlock
         url: /images/playstation.svg
         altText: PlayStation
         caption: PlayStation
