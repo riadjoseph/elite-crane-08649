@@ -99,7 +99,7 @@ sections:
           - pl-4
           - pr-4
         justifyContent: center
-        borderRadius: none
+        borderRadius: x-small
         borderWidth: 0
         borderStyle: none
         borderColor: border-dark
