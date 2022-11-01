@@ -34,7 +34,7 @@ module.exports = {
             },
             fontFamily: {
                 sans: ['Cabin', 'sans-serif'],
-                sansAlt: ['Poppins', 'sans-serif']
+                sansAlt: ['Lexend Deca', 'sans-serif']
             }
         }
     },
