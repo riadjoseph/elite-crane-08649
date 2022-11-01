@@ -133,7 +133,7 @@ sections:
       Rezo’preneurs est aussi un réseau d’entrepreneurs de tous horizons.
     actions:
       - type: Button
-        label: Etude de cas
+        label: Nous contacter
         url: /
         style: primary
         altText: Etude de cas
