@@ -96,7 +96,7 @@ sections:
         padding:
           - pt-7
           - pb-9
-          - pl-4
+          - pl-3
           - pr-4
         justifyContent: center
         borderRadius: x-small
