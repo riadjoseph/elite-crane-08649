@@ -50,7 +50,7 @@ sections:
     elementId: ''
     images:
       - type: ImageBlock
-        url: /images/Capital-Management.png
+        url: /images/Capital-Management copy.png
         altText: altText of the image
         caption: Caption of the image
         elementId: ''
