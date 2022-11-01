@@ -18,7 +18,7 @@ sections:
         showIcon: true
     media:
       type: ImageBlock
-      url: /images/hero.png
+      url: /images/post-1.jpg
       altText: Image alt text
       caption: Image caption
     styles:
