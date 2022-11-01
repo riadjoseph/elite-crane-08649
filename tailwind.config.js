@@ -34,7 +34,7 @@ module.exports = {
             },
             fontFamily: {
                 sans: ['Poppins', 'sans-serif'],
-                sansAlt: ['Roboto', 'sans-serif']
+                sansAlt: ['Poppins', 'sans-serif']
             }
         }
     },
