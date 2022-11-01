@@ -137,6 +137,7 @@ sections:
         url: /
         style: primary
         altText: Etude de cas
+        icon: arrowRight
     styles:
       self:
         height: auto
