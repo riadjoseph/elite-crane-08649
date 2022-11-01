@@ -138,6 +138,7 @@ sections:
         style: primary
         altText: Etude de cas
         icon: arrowRight
+        iconPosition: right
     styles:
       self:
         height: auto
