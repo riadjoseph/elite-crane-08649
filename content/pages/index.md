@@ -115,8 +115,8 @@ sections:
   - elementId: ''
     colors: colors-f
     text: >
-      Seul, on va plus vite. Ensemble, on va plus loin. Rezopreneurs, c'est pour
-      toute personne souhaitant ou ayant créer une entreprise.
+      Seul, on va plus vite. Ensemble, on va plus loin. Rezo'preneurs, c'est
+      pour toute personne souhaitant ou ayant créer une entreprise.
     actions:
       - type: Button
         label: Etude de cas
