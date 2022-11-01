@@ -110,7 +110,6 @@ sections:
     imageSizePx: 240
     type: MediaGallerySection
     title: Ils en parlent
-    subtitle: Vu dans...
   - elementId: ''
     colors: colors-f
     text: >
