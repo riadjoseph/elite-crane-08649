@@ -97,7 +97,7 @@ sections:
           - pt-7
           - pb-9
           - pl-3
-          - pr-4
+          - pr-3
         justifyContent: center
         borderRadius: x-small
         borderWidth: 0
