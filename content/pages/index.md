@@ -137,7 +137,7 @@ sections:
         url: /
         style: primary
         altText: Etude de cas
-        icon: arrowRight
+        icon: chevronRight
         iconPosition: right
         showIcon: true
     styles:
