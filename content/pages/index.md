@@ -117,6 +117,20 @@ sections:
     text: >
       Seul, on va plus vite. Ensemble, on va plus loin. Rezo'preneurs, c'est
       pour toute personne souhaitant ou ayant créer une entreprise.
+
+
+      Rezo’preneurs est un organisme de formation privé qui a pour principale
+      ambition d’aider le maximum de personne à gagner en compétences dans le
+      monde de l’entrepreneuriat.
+
+
+      L’expérience de l’équipe dirigeante et enseignante est mise en œuvre afin
+      de garantir une qualité irréprochable de nos formations et ainsi permettre
+      à chaque stagiaire d’être épaulé durant son apprentissage et dans la
+      création et/ou le développement de son activité .
+
+
+      Rezo’preneurs est aussi un réseau d’entrepreneurs de tous horizons.
     actions:
       - type: Button
         label: Etude de cas
