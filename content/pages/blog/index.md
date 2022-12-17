@@ -1,6 +1,6 @@
 ---
 layout: PostFeedLayout
-title: Blog
+title: Programmes de Formation Business Elite
 numOfPostsPerPage: 10
 postFeed:
   showDate: false
