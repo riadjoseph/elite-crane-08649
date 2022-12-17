@@ -3,7 +3,7 @@ layout: PostFeedLayout
 title: Blog
 numOfPostsPerPage: 10
 postFeed:
-  showDate: true
+  showDate: false
   showAuthor: true
   showExcerpt: true
   variant: variant-a
