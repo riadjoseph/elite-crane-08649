@@ -24,10 +24,6 @@ bottomSections:
         label: Try it now
         url: /
         style: primary
-      - type: Button
-        showIcon: true
-        icon: arrowRight
-        style: link
     backgroundImage: null
     styles:
       self:
