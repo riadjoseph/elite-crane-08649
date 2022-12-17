@@ -1,6 +1,5 @@
 ---
 title: Formation Anglais
-date: '2021-10-26'
 author: content/data/team/hugh-saturation.json
 excerpt: >-
   L'anglais est devenue la langue la plus utilisée dans le monde du travail et
