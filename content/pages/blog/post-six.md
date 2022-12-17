@@ -17,9 +17,8 @@ bottomSections:
     colors: colors-f
     backgroundSize: full
     title: Je réserve ma place
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
+    text: |
+      Demandez les informations complémentaires à notre équipe.
     actions:
       - type: Button
         label: Try it now
