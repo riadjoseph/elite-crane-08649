@@ -4,7 +4,7 @@ date: '2021-10-26'
 author: content/data/team/hugh-saturation.json
 excerpt: >-
   L'anglais est devenue la langue la plus utilisée dans le monde du travail et
-  pour la communicationinternationale. Beaucoup d’entreprises se développent à
+  pour la communication internationale. Beaucoup d’entreprises se développent à
   l’étranger ou tissent des liens professionnelsnécessaire à leur projet. C’est
   pourquoi il est important d’être capable de comprendre l’anglais etcommuniquer
   efficacement.
