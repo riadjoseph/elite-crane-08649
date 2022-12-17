@@ -15,7 +15,7 @@ bottomSections:
   - elementId: ''
     variant: variant-c
     colors: colors-a
-    title: Read next
+    title: Autres modules de formation
     recentCount: 3
     styles:
       self:
