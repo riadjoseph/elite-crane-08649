@@ -1,7 +1,7 @@
 ---
 layout: PostFeedLayout
 title: Programmes de Formation Business Elite
-numOfPostsPerPage: 12
+numOfPostsPerPage: 16
 postFeed:
   showDate: false
   showAuthor: true
