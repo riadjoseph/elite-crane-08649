@@ -52,7 +52,7 @@ partie de formations individuelles à distance sous la forme de webinars
 
 **Dates ou période** : Voir contrat de formation joint
 
-**Horaires **:
+**Horaires**:
 • La partie e-learning est accessible 7/7 et 24h/24h.
 • Le monitoring et l’assistance pédagogique sont disponibles du lundi au vendredi de 9H à 17H.
 • Les accompagnements individuels seront à programmer avec le formateur du lundi au
@@ -68,7 +68,7 @@ pour vous réorienter. Vous pouvez nous contacter au 06.50.13.69.08
 
 ![](/images/work-book-cover-3.jpg)
 
-**Objectifs de la formation et compétences visées** 
+**Objectifs de la formation et compétences visées**
 
 À l’issue de la formation, le participant sera capable de mettre en œuvre les compétences suivantes :
 
@@ -84,12 +84,9 @@ Modalités d’évaluation d’atteinte des objectifs de la formation :
 
 *   Echange avec le formateur par visioconférence (webinar), téléphone et mail
 
+**Moyens permettant le suivi et l’appréciation des résultats**
 
-
-**Moyens permettant le suivi et l’appréciation des résultats
-**
 Suivi de l’exécution :
-
 
 *   Attestation d’assiduité mentionnant les objectifs, la nature et la durée de l’action et les résultats de l’évaluation des acquis de la formation
 
@@ -97,8 +94,7 @@ Suivi de l’exécution :
 
 *   Attestation de réalisation des unités, signée par un représentant de l’organisme de formation, détaillant les travaux finalisés en cohérence avec le programme de formation
 
-
-Appréciation des résultats :
+**Appréciation des résultats **:
 
 *   Recueil individuel des attentes du stagiaire
 
@@ -108,12 +104,11 @@ Appréciation des résultats :
 
 *   Questionnaire d’évaluation de la satisfaction en fin de formation
 
-****
+***
 
 **Moyens pédagogiques et techniques d’encadrement des formations**
 
 Modalités pédagogiques :
-
 
 *   Évaluation des besoins et du profil du participant
 
@@ -129,8 +124,8 @@ Modalités pédagogiques :
 
 *   Accès individualisé grâce à 1 login et 1 mot de passe par apprenant permettant le contrôle et l’évaluation par les tuteurs formateurs à partir d’une plateforme conçue spécialement pour le e-learning
 
-**Référent pédagogique et formateur **:
-Chaque formation est sous la responsabilité du directeur pédagogique de l’organisme de formation ; le bon
+**Référent pédagogique et formateur :
+**Chaque formation est sous la responsabilité du directeur pédagogique de l’organisme de formation ; le bon
 déroulement est assuré par le formateur désigné par l’organisme de formation.
 
 **Formateurs** : Nos formateurs sont choisis pour leurs expertises métiers, leurs compétences pédagogiques et
