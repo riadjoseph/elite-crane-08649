@@ -130,7 +130,7 @@ Suivi de l’exécution :
 
 *   Attestation de réalisation des unités, signée par un représentant de l’organisme de formation, détaillant les travaux finalisés en cohérence avec le programme de formation
 
-**Appréciation des résultats **:
+\*\*Appréciation des résultats \*\*:
 
 *   Recueil individuel des attentes du stagiaire
 
@@ -160,8 +160,8 @@ Modalités pédagogiques :
 
 *   Accès individualisé grâce à 1 login et 1 mot de passe par apprenant permettant le contrôle et l’évaluation par les tuteurs formateurs à partir d’une plateforme conçue spécialement pour le e-learning
 
-**Référent pédagogique et formateur :
-**Chaque formation est sous la responsabilité du directeur pédagogique de l’organisme de formation ; le bon
+**Référent pédagogique et formateur** :
+Chaque formation est sous la responsabilité du directeur pédagogique de l’organisme de formation ; le bon
 déroulement est assuré par le formateur désigné par l’organisme de formation.
 
 **Formateurs** : Nos formateurs sont choisis pour leurs expertises métiers, leurs compétences pédagogiques et
