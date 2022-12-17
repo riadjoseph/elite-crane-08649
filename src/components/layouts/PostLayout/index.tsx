@@ -21,9 +21,9 @@ export default function PostLayout(props) {
                     <div className="max-w-screen-2xl mx-auto">
                         <header className="max-w-screen-md mx-auto mb-12 text-center">
                             //<div className="text-lg mb-4">
-                                <time dateTime={dateTimeAttr} data-sb-field-path="date">
-                                    {formattedDate}
-                                </time>
+                             //   <time dateTime={dateTimeAttr} data-sb-field-path="date">
+                               //     {formattedDate}
+                                //</time>
                             </div>
                             {page.title && <h1 data-sb-field-path="title">{page.title}</h1>}
                             <PostAttribution post={page} />
