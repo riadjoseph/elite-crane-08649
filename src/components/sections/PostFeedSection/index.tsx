@@ -294,7 +294,7 @@ function PostAttribution({ showAuthor, post, className = '' }) {
         <div className={className ? className : null}>
             {author && (
                 <>
-                    {'Public '}
+                    {'Public : '}
                     {author}
                 </>
             )}
