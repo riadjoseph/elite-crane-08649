@@ -27,7 +27,6 @@ bottomSections:
       - type: Button
         showIcon: true
         icon: arrowRight
-        url: /
         style: link
     backgroundImage: null
     styles:
