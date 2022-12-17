@@ -25,7 +25,6 @@ bottomSections:
         url: /
         style: primary
       - type: Button
-        label: Learn More
         showIcon: true
         icon: arrowRight
         url: /
