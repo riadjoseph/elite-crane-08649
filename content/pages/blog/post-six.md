@@ -21,7 +21,7 @@ bottomSections:
       Demandez les informations complémentaires à notre équipe.
     actions:
       - type: Button
-        label: Try it now
+        label: Je réserve
         url: /
         style: primary
     backgroundImage: null
