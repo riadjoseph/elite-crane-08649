@@ -131,4 +131,5 @@ sections:
         textAlign: center
       text:
         textAlign: center
+    backgroundSize: inset
 ---
