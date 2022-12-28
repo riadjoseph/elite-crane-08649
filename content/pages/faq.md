@@ -6,7 +6,7 @@ sections:
     elementId: ''
     title: Questions fréquentes
     items:
-      - question: How is this different from what we have today?
+      - question: 1/ Quelles formations peut-on faire grâce au CPF ?
         answer: >-
           At the office, working together is often a distraction, on remote, it
           could be motivation, At the office, working together is often a
