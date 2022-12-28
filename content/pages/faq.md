@@ -12,11 +12,14 @@ sections:
           dans de nombreux domaines tels que : le management, la finance, le
           droit, la communication et les réseaux sociaux, l'informatique etc.
       - question: '2/ Quelles formations pour devenir autoentrepreneur ? '
-        answer: >-
-          At the office, working together is often a distraction, on remote, it
-          could be motivation, At the office, working together is often a
-          distraction, on remote, it could be motivation, At the office, working
-          together is often a distraction, on remote, it could be motivation
+        answer: >
+          Cela dépend de votre projet professionnel. Rezo’Preneurs vous aide à
+          acquérir des bases solides qui sont nécessaires dans la construction
+          de votre projet, de la simple idée au lancement du projet. Par exemple
+          il vous faut choisir un statut juridique correspondant le plus à votre
+          activité, être capable de faire une étude approfondie de votre projet,
+          comment communiquer avec vos futurs clients, comment assurer une
+          gestion efficace de votre projet.
       - question: How is this different from what we have today?
         answer: >-
           At the office, working together is often a distraction, on remote, it
