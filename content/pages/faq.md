@@ -130,4 +130,8 @@ sections:
         textAlign: center
     backgroundSize: inset
     elementId: contact
+    text: >+
+      Merci de votre interêt pour nos formations. Rezo'preneurs pour les
+      entrepreneurs d'aujourd'hui.
+
 ---
