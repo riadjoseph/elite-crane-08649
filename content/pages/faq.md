@@ -89,6 +89,7 @@ sections:
           isRequired: true
           width: full
           type: EmailFormControl
+          hideLabel: false
       submitLabel: Sign Up
       styles:
         submitLabel:
