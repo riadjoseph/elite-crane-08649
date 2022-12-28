@@ -133,7 +133,8 @@
             {
                 "type": "Link",
                 "label": "FORMATION 100% EN LIGNE",
-                "url": "/"
+                "url": "/",
+                "altText": "100% EN LIGNE"
             },
             {
                 "type": "Link",
