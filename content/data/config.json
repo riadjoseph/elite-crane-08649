@@ -140,7 +140,7 @@
                 "type": "Link",
                 "label": "ÉLIGIBLE AU CPF",
                 "altText": "ÉLIGIBLE AU CPF",
-                "url": "“"
+                "url": "#"
             }
         ],
         "styles": {
