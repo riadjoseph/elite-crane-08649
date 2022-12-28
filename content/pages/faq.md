@@ -95,7 +95,7 @@ sections:
           name: description
           label: Description
           hideLabel: true
-          placeholder: Please describe
+          placeholder: J'ai une question
           isRequired: false
           width: full
         - type: CheckboxFormControl
