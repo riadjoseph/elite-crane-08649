@@ -96,6 +96,13 @@ sections:
           label: Je donne mon consentement pour être contacté(e)
           isRequired: true
           width: full
+        - type: TextareaFormControl
+          name: description
+          label: Description
+          hideLabel: false
+          placeholder: Please describe
+          isRequired: false
+          width: full
       submitLabel: Sign Up
       styles:
         submitLabel:
