@@ -132,4 +132,5 @@ sections:
       text:
         textAlign: center
     backgroundSize: inset
+    elementId: contact
 ---
