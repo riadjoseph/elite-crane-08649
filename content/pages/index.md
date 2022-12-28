@@ -112,7 +112,7 @@ sections:
     imageSizePx: 240
     type: MediaGallerySection
     title: Ils en parlent
-  - elementId: ''
+  - elementId: etre
     colors: colors-f
     text: >
       Seul, on va plus vite. Ensemble, on va plus loin. Rezo'preneurs, c'est
