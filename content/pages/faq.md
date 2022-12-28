@@ -23,11 +23,12 @@ sections:
       - question: >-
           3/ Je souhaite faire une formation courte mais compétente que choisir
           ?
-        answer: >-
-          At the office, working together is often a distraction, on remote, it
-          could be motivation, At the office, working together is often a
-          distraction, on remote, it could be motivation, At the office, working
-          together is often a distraction, on remote, it could be motivation
+        answer: >
+          Nos formations sont dispensées par des coachs compétents et eux-mêmes
+          entrepreneurs. Vous serez donc formés pendant 10 jours sur diverses
+          thématiques complètes et variées. Et si vous le souhaitez, vous pouvez
+          obtenir gratuitement un accompagnement personnalisé par l'un de nos
+          coachs.
       - question: How is this different from what we have today?
         answer: >-
           At the office, working together is often a distraction, on remote, it
