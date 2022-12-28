@@ -20,7 +20,9 @@ sections:
           activité, être capable de faire une étude approfondie de votre projet,
           comment communiquer avec vos futurs clients, comment assurer une
           gestion efficace de votre projet.
-      - question: How is this different from what we have today?
+      - question: >-
+          3/ Je souhaite faire une formation courte mais compétente que choisir
+          ?
         answer: >-
           At the office, working together is often a distraction, on remote, it
           could be motivation, At the office, working together is often a
