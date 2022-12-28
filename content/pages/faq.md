@@ -29,7 +29,7 @@ sections:
           thématiques complètes et variées. Et si vous le souhaitez, vous pouvez
           obtenir gratuitement un accompagnement personnalisé par l'un de nos
           coachs.
-      - question: How is this different from what we have today?
+      - question: 4/ Comment savoir si je suis éligible au CFP ?
         answer: >-
           At the office, working together is often a distraction, on remote, it
           could be motivation, At the office, working together is often a
