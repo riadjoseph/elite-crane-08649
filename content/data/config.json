@@ -139,8 +139,7 @@
             {
                 "type": "Link",
                 "label": "ÉLIGIBLE AU CPF",
-                "altText": "ÉLIGIBLE AU CPF",
-                "url": "/"
+                "altText": "ÉLIGIBLE AU CPF"
             }
         ],
         "styles": {
