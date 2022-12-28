@@ -91,17 +91,17 @@ sections:
           type: EmailFormControl
           hideLabel: false
           label: Adresse email
-        - type: CheckboxFormControl
-          name: Consentement
-          label: Je donne mon consentement pour être contacté(e)
-          isRequired: true
-          width: full
         - type: TextareaFormControl
           name: description
           label: Description
           hideLabel: false
           placeholder: Please describe
           isRequired: false
+          width: full
+        - type: CheckboxFormControl
+          name: Consentement
+          label: Je donne mon consentement pour être contacté(e)
+          isRequired: true
           width: full
       submitLabel: Sign Up
       styles:
