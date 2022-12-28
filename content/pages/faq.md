@@ -90,6 +90,7 @@ sections:
           width: full
           type: EmailFormControl
           hideLabel: false
+          label: Adresse email
       submitLabel: Sign Up
       styles:
         submitLabel:
