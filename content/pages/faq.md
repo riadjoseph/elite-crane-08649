@@ -108,7 +108,7 @@ sections:
           textAlign: center
     styles:
       self:
-        height: auto
+        height: screen
         width: wide
         margin:
           - mt-24
