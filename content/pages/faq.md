@@ -30,11 +30,12 @@ sections:
           obtenir gratuitement un accompagnement personnalisé par l'un de nos
           coachs.
       - question: 4/ Comment savoir si je suis éligible au CFP ?
-        answer: >-
-          At the office, working together is often a distraction, on remote, it
-          could be motivation, At the office, working together is often a
-          distraction, on remote, it could be motivation, At the office, working
-          together is often a distraction, on remote, it could be motivation
+        answer: >
+          Sur le site
+          https://www.moncompteformation.gouv.fr/espace-prive/html/#/ vous
+          pouvez prendre connaissance de votre solde de formation disponible sur
+          votre compte. Ensuite, il ne vous reste plus qu'à choisir vos
+          formations.
       - question: How is this different from what we have today?
         answer: >-
           At the office, working together is often a distraction, on remote, it
