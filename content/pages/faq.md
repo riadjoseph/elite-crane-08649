@@ -65,7 +65,7 @@ sections:
     type: FaqSection
   - type: ContactSection
     colors: colors-f
-    backgroundSize: inset
+    backgroundSize: full
     title: Get early access
     text: >
       Sign up your team today to be the first to try out our new product to
