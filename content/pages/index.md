@@ -139,6 +139,7 @@ sections:
         icon: chevronRight
         iconPosition: right
         showIcon: true
+        url: '#'
     styles:
       self:
         height: auto
