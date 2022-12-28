@@ -136,7 +136,7 @@ sections:
         label: Les modules de la formation
         url: /
         style: primary
-        altText: Etude de cas
+        altText: Modules de la formation
         icon: chevronRight
         iconPosition: right
         showIcon: true
