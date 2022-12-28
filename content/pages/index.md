@@ -133,7 +133,7 @@ sections:
       Rezo’preneurs est aussi un réseau d’entrepreneurs de tous horizons.
     actions:
       - type: Button
-        label: Les modules
+        label: Les modules de la formation
         url: /
         style: primary
         altText: Etude de cas
