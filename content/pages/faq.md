@@ -92,7 +92,7 @@ sections:
           hideLabel: false
           label: Adresse email
         - type: CheckboxFormControl
-          name: updates
+          name: Consentement
           label: Je donne mon consentement pour être contacté(e)
           isRequired: true
           width: full
