@@ -87,7 +87,7 @@ sections:
           label: Nom et prénom
           hideLabel: false
           placeholder: Nom et prénom
-          isRequired: false
+          isRequired: true
           width: full
       submitLabel: Sign Up
       styles:
