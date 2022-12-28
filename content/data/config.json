@@ -79,7 +79,7 @@
         "contacts": {
             "title": "Contact details",
             "phoneNumber": "02 44 84 24 88",
-            "phoneAltText": "Tél",
+            "phoneAltText": "Télèphone",
             "email": "info@lorem.mail",
             "emailAltText": "Our email",
             "address": "312 Lovely Street, NY",
