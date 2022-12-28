@@ -84,7 +84,7 @@ sections:
           type: EmailFormControl
         - type: TextFormControl
           name: Nom
-          label: Home address
+          label: Nom
           hideLabel: false
           placeholder: Your home address
           isRequired: false
