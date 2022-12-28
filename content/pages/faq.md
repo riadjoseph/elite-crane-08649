@@ -65,7 +65,7 @@ sections:
     type: FaqSection
   - type: ContactSection
     colors: colors-f
-    title: Nous contacter
+    title: NOUS CONTACTER
     form:
       type: FormBlock
       variant: variant-b
