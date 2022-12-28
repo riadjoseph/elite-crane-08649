@@ -65,7 +65,7 @@ sections:
     type: FaqSection
   - type: ContactSection
     colors: colors-f
-    title: Get early access
+    title: Nous contacter
     text: >
       Sign up your team today to be the first to try out our new product to
       increae your team’s productivity
