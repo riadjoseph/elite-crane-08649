@@ -123,7 +123,7 @@ sections:
         alignItems: center
         justifyContent: center
         flexDirection: col
-        borderRadius: xx-large
+        borderRadius: full
         borderWidth: 0
         borderStyle: none
         borderColor: border-dark
