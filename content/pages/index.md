@@ -12,7 +12,7 @@ sections:
     actions:
       - type: Button
         label: En savoir plus
-        url: /
+        url: '/#'
         style: primary
         altText: En savoir plus
         icon: chevronRight
