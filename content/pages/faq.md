@@ -86,7 +86,7 @@ sections:
           name: Nom et prénom
           label: Nom et prénom
           hideLabel: false
-          placeholder: Your home address
+          placeholder: Nom et prénom
           isRequired: false
           width: full
       submitLabel: Sign Up
