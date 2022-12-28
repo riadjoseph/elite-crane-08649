@@ -7,11 +7,10 @@ sections:
     title: Questions fréquentes
     items:
       - question: 1/ Quelles formations peut-on faire grâce au CPF ?
-        answer: >-
-          At the office, working together is often a distraction, on remote, it
-          could be motivation, At the office, working together is often a
-          distraction, on remote, it could be motivation, At the office, working
-          together is often a distraction, on remote, it could be motivation
+        answer: >
+          Le CPF vous donne droit à diverses formations reconnues par l'État
+          dans de nombreux domaines tels que : le management, la finance, le
+          droit, la communication et les réseaux sociaux, l'informatique etc.
       - question: How is this different from what we have today?
         answer: >-
           At the office, working together is often a distraction, on remote, it
