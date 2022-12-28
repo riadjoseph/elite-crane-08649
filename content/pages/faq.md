@@ -91,6 +91,11 @@ sections:
           type: EmailFormControl
           hideLabel: false
           label: Adresse email
+        - type: CheckboxFormControl
+          name: updates
+          label: Sign me up to receive updates
+          isRequired: false
+          width: full
       submitLabel: Sign Up
       styles:
         submitLabel:
