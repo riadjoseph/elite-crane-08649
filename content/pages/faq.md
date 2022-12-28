@@ -93,7 +93,7 @@ sections:
           label: Adresse email
         - type: CheckboxFormControl
           name: updates
-          label: Sign me up to receive updates
+          label: Je donne mon consent
           isRequired: false
           width: full
       submitLabel: Sign Up
