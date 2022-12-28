@@ -12,7 +12,7 @@ sections:
     actions:
       - type: Button
         label: En savoir plus
-        url: '/#'
+        url: '/#etre-epaule'
         style: primary
         altText: En savoir plus
         icon: chevronRight
