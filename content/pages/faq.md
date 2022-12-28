@@ -66,9 +66,6 @@ sections:
   - type: ContactSection
     colors: colors-f
     title: Nous contacter
-    text: >
-      Sign up your team today to be the first to try out our new product to
-      increae your team’s productivity
     form:
       type: FormBlock
       variant: variant-b
