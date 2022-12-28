@@ -77,11 +77,6 @@ sections:
       destination: ''
       action: /.netlify/functions/submission_created
       fields:
-        - name: email
-          placeholder: Your email
-          isRequired: true
-          width: full
-          type: EmailFormControl
         - type: TextFormControl
           name: Nom et prénom
           label: Nom et prénom
@@ -89,6 +84,11 @@ sections:
           placeholder: Nom et prénom
           isRequired: true
           width: full
+        - name: email
+          placeholder: Your email
+          isRequired: true
+          width: full
+          type: EmailFormControl
       submitLabel: Sign Up
       styles:
         submitLabel:
