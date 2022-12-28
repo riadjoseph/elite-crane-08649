@@ -139,7 +139,7 @@ sections:
         icon: chevronRight
         iconPosition: right
         showIcon: true
-        url: '#modules'
+        url: '/#modules'
     styles:
       self:
         height: auto
