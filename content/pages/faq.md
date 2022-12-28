@@ -122,7 +122,7 @@ sections:
           - pl-4
         alignItems: center
         justifyContent: center
-        flexDirection: row
+        flexDirection: col
         borderRadius: xx-large
         borderWidth: 0
         borderStyle: none
