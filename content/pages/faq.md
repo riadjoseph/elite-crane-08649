@@ -83,7 +83,7 @@ sections:
           width: full
           type: EmailFormControl
         - type: TextFormControl
-          name: Nom
+          name: Nom et prénom
           label: Nom
           hideLabel: false
           placeholder: Your home address
