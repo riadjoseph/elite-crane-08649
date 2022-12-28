@@ -31,18 +31,11 @@ sections:
         textAlign: left
       text:
         textAlign: left
-    text: >-
-      Informations légales
+    text: >
 
 
-
-      1. Présentation du site.
-
-      En vertu de l'article 6 de la loi n° 2004-575 du 21 juin 2004 pour la
-      confiance dans l'économie numérique, il est précisé aux utilisateurs du
-      site rezopreneurs.com l'identité des différents intervenants dans le cadre
-      de sa réalisation et de son suivi :
-
+      1.  Présentation du site.
+          En vertu de l'article 6 de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique, il est précisé aux utilisateurs du site rezopreneurs.com l'identité des différents intervenants dans le cadre de sa réalisation et de son suivi :
 
       Propriétaire : Monsieur BEN AHMED Jihade – SASU – 19 rue de port la
       blanche 44300 Nantes
@@ -63,15 +56,8 @@ sections:
       Crédit attribué à SubDelirium.com
 
 
-
-      2. Conditions générales d’utilisation du site et des services proposés.
-
-      L’utilisation du site https://rezopreneurs.com implique l’acceptation
-      pleine et entière des conditions générales d’utilisation ci-après
-      décrites. Ces conditions d’utilisation sont susceptibles d’être modifiées
-      ou complétées à tout moment, les utilisateurs du site rezopreneurs.com
-      sont donc invités à les consulter de manière régulière.
-
+      2.  Conditions générales d’utilisation du site et des services proposés.
+          L’utilisation du site https://rezopreneurs.com implique l’acceptation pleine et entière des conditions générales d’utilisation ci-après décrites. Ces conditions d’utilisation sont susceptibles d’être modifiées ou complétées à tout moment, les utilisateurs du site rezopreneurs.com sont donc invités à les consulter de manière régulière.
 
       Ce site est normalement accessible à tout moment aux utilisateurs. Une
       interruption pour raison de maintenance technique peut être toutefois
@@ -87,12 +73,8 @@ sections:
       connaissance.
 
 
-
-      3. Description des services fournis.
-
-      Le site rezopreneurs.com a pour objet de fournir une information
-      concernant l’ensemble des activités de la société.
-
+      3.  Description des services fournis.
+          Le site rezopreneurs.com a pour objet de fournir une information concernant l’ensemble des activités de la société.
 
       Monsieur BEN AHMED Jihade s’efforce de fournir sur le site
       rezopreneurs.com des informations aussi précises que possible. Toutefois,
@@ -108,11 +90,8 @@ sections:
       apportées depuis leur mise en ligne.
 
 
-
-      4. Limitations contractuelles sur les données techniques.
-
-      Le site utilise la technologie JavaScript.
-
+      4.  Limitations contractuelles sur les données techniques.
+          Le site utilise la technologie JavaScript.
 
       Le site Internet ne pourra être tenu responsable de dommages matériels
       liés à l’utilisation du site. De plus, l’utilisateur du site s’engage à
@@ -120,14 +99,8 @@ sections:
       et avec un navigateur de dernière génération mis-à-jour
 
 
-
-      5. Propriété intellectuelle et contrefaçons.
-
-      Monsieur BEN AHMED Jihade est propriétaire des droits de propriété
-      intellectuelle ou détient les droits d’usage sur tous les éléments
-      accessibles sur le site, notamment les textes, images, graphismes, logo,
-      icônes, sons, logiciels.
-
+      5.  Propriété intellectuelle et contrefaçons.
+          Monsieur BEN AHMED Jihade est propriétaire des droits de propriété intellectuelle ou détient les droits d’usage sur tous les éléments accessibles sur le site, notamment les textes, images, graphismes, logo, icônes, sons, logiciels.
 
       Toute reproduction, représentation, modification, publication, adaptation
       de tout ou partie des éléments du site, quel que soit le moyen ou le
@@ -141,15 +114,8 @@ sections:
       L.335-2 et suivants du Code de Propriété Intellectuelle.
 
 
-
-      6. Limitations de responsabilité.
-
-      Monsieur BEN AHMED Jihade ne pourra être tenue responsable des dommages
-      directs et indirects causés au matériel de l’utilisateur, lors de l’accès
-      au site rezopreneurs.com, et résultant soit de l’utilisation d’un matériel
-      ne répondant pas aux spécifications indiquées au point 4, soit de
-      l’apparition d’un bug ou d’une incompatibilité.
-
+      6.  Limitations de responsabilité.
+          Monsieur BEN AHMED Jihade ne pourra être tenue responsable des dommages directs et indirects causés au matériel de l’utilisateur, lors de l’accès au site rezopreneurs.com, et résultant soit de l’utilisation d’un matériel ne répondant pas aux spécifications indiquées au point 4, soit de l’apparition d’un bug ou d’une incompatibilité.
 
       Monsieur BEN AHMED Jihade ne pourra également être tenue responsable des
       dommages indirects (tels par exemple qu’une perte de marché ou perte d’une
@@ -168,13 +134,8 @@ sections:
       le support utilisé (texte, photographie…).
 
 
-
-      7. Gestion des données personnelles.
-
-      En France, les données personnelles sont notamment protégées par la loi n°
-      78-87 du 6 janvier 1978, la loi n° 2004-801 du 6 août 2004, l'article L.
-      226-13 du Code pénal et la Directive Européenne du 24 octobre 1995.
-
+      7.  Gestion des données personnelles.
+          En France, les données personnelles sont notamment protégées par la loi n° 78-87 du 6 janvier 1978, la loi n° 2004-801 du 6 août 2004, l'article L. 226-13 du Code pénal et la Directive Européenne du 24 octobre 1995.
 
       A l'occasion de l'utilisation du site rezopreneurs.com, peuvent êtres
       recueillies : l'URL des liens par l'intermédiaire desquels l'utilisateur a
@@ -218,15 +179,8 @@ sections:
       protection juridique des bases de données.
 
 
-
-      8. Liens hypertextes et cookies.
-
-      Le site rezopreneurs.com contient un certain nombre de liens hypertextes
-      vers d’autres sites, mis en place avec l’autorisation de Monsieur BEN
-      AHMED Jihade. Cependant, Monsieur BEN AHMED Jihade n’a pas la possibilité
-      de vérifier le contenu des sites ainsi visités, et n’assumera en
-      conséquence aucune responsabilité de ce fait.
-
+      8.  Liens hypertextes et cookies.
+          Le site rezopreneurs.com contient un certain nombre de liens hypertextes vers d’autres sites, mis en place avec l’autorisation de Monsieur BEN AHMED Jihade. Cependant, Monsieur BEN AHMED Jihade n’a pas la possibilité de vérifier le contenu des sites ainsi visités, et n’assumera en conséquence aucune responsabilité de ce fait.
 
       La navigation sur le site rezopreneurs.com est susceptible de provoquer
       l’installation de cookie(s) sur l’ordinateur de l’utilisateur. Un cookie
@@ -269,30 +223,18 @@ sections:
       "Confidentialité", vous pouvez bloquer les cookies.
 
 
-
-      9. Droit applicable et attribution de juridiction.
-
-      Tout litige en relation avec l’utilisation du site rezopreneurs.com est
-      soumis au droit français. Il est fait attribution exclusive de juridiction
-      aux tribunaux compétents de Paris.
-
-
+      9.  Droit applicable et attribution de juridiction.
+          Tout litige en relation avec l’utilisation du site rezopreneurs.com est soumis au droit français. Il est fait attribution exclusive de juridiction aux tribunaux compétents de Paris.
 
       10. Les principales lois concernées.
-
-      Loi n° 78-17 du 6 janvier 1978, notamment modifiée par la loi n° 2004-801
-      du 6 août 2004 relative à l'informatique, aux fichiers et aux libertés.
-
+          Loi n° 78-17 du 6 janvier 1978, notamment modifiée par la loi n° 2004-801 du 6 août 2004 relative à l'informatique, aux fichiers et aux libertés.
 
       Loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie
       numérique.
 
 
-
       11. Lexique.
-
-      Utilisateur : Internaute se connectant, utilisant le site susnommé.
-
+          Utilisateur : Internaute se connectant, utilisant le site susnommé.
 
       Informations personnelles : « les informations qui permettent, sous
       quelque forme que ce soit, directement ou non, l'identification des
