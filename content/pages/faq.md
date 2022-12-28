@@ -11,7 +11,7 @@ sections:
           Le CPF vous donne droit à diverses formations reconnues par l'État
           dans de nombreux domaines tels que : le management, la finance, le
           droit, la communication et les réseaux sociaux, l'informatique etc.
-      - question: How is this different from what we have today?
+      - question: '2/ Quelles formations pour devenir autoentrepreneur ? '
         answer: >-
           At the office, working together is often a distraction, on remote, it
           could be motivation, At the office, working together is often a
