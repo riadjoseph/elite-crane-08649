@@ -180,7 +180,7 @@ sections:
       type: ImageBlock
     title: Être épaulé
   - colors: colors-a
-    elementId: ''
+    elementId: modules
     title: Les modules de la formation
     subtitle: >-
       Éligible au financement CPF et 100% en ligne. Ne ratez pas votre
