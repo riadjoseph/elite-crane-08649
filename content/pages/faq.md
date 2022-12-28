@@ -84,7 +84,7 @@ sections:
           type: EmailFormControl
         - type: TextFormControl
           name: Nom et prénom
-          label: Nom
+          label: Nom et prénom
           hideLabel: false
           placeholder: Your home address
           isRequired: false
