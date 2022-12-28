@@ -92,7 +92,7 @@ sections:
           hideLabel: false
           label: Adresse email
         - type: TextareaFormControl
-          name: description
+          name: J'ai une question
           label: J'ai une question
           hideLabel: true
           placeholder: J'ai une question
