@@ -134,7 +134,6 @@ sections:
     actions:
       - type: Button
         label: Les modules de la formation
-        url: /
         style: primary
         altText: Modules de la formation
         icon: chevronRight
