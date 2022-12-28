@@ -84,7 +84,7 @@ sections:
           placeholder: Nom et prénom
           isRequired: true
           width: full
-        - name: email
+        - name: Adresse email
           placeholder: Adresse email
           isRequired: true
           width: full
