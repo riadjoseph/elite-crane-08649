@@ -85,7 +85,7 @@ sections:
           isRequired: true
           width: full
         - name: email
-          placeholder: Adress email
+          placeholder: Adresse email
           isRequired: true
           width: full
           type: EmailFormControl
