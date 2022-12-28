@@ -94,7 +94,7 @@ sections:
         - type: CheckboxFormControl
           name: updates
           label: Je donne mon consentement pour être contacté(e)
-          isRequired: false
+          isRequired: true
           width: full
       submitLabel: Sign Up
       styles:
