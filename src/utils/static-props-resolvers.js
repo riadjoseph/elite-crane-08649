@@ -107,7 +107,7 @@ const StaticPropsResolvers = {
             return props;
         }
         const secretKey = crypto.createHash('sha256').update(process.env.STACKBIT_CONTACT_FORM_SECRET).digest();
-        const destination = await new SignJWT({ email: riad@webkitConvertPointFromPageToNode.fr }).setProtectedHeader({ alg: 'HS256' }).sign(secretKey);
+        const destination = await new SignJWT({ email: riad@webforgood.fr }).setProtectedHeader({ alg: 'HS256' }).sign(secretKey);
         return {
             ...props,
             destination
