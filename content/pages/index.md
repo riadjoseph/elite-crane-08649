@@ -293,7 +293,7 @@ sections:
     colors: colors-a
     elementId: ''
     items:
-      - title: Marketing digital
+      - title: Anglais
         text: >
           Learn how top tech companies have learned working remote using our
           product.
