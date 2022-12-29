@@ -99,7 +99,7 @@ sections:
           label: Je donne mon consentement pour être contacté(e)
           isRequired: true
           width: full
-      submitLabel: Sign Up
+      submitLabel: ENVOYER
       styles:
         submitLabel:
           textAlign: center
