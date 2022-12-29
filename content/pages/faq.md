@@ -68,7 +68,7 @@ sections:
     title: NOUS CONTACTER
     form:
       type: FormBlock
-      variant: variant-b
+      variant: variant-a
       elementId: contact-form
       destination: ''
       action: /.netlify/functions/submission_created
@@ -130,8 +130,7 @@ sections:
         textAlign: center
     backgroundSize: inset
     elementId: contact
-    text: >+
+    text: >
       Merci de votre interêt pour nos formations. Rezo'preneurs pour les
       entrepreneurs d'aujourd'hui.
-
 ---
