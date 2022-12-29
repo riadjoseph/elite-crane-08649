@@ -42,34 +42,45 @@ export default function TextSection(props) {
     );
 }
 
-function textBody(props) {
-    const styles = props.styles || {};
-    return (
-        <div>
-            {props.title && (
-                <h2 className={classNames(styles.title ? mapStyles(styles.title) : null)} data-sb-field-path=".title">
-                    {props.title}
-                </h2>
-            )}
-            {props.subtitle && (
-                <p
-                    className={classNames('text-xl', 'sm:text-2xl', styles.subtitle ? mapStyles(styles.subtitle) : null, { 'mt-2': props.title })}
-                    data-sb-field-path=".subtitle"
-                >
-                    {props.subtitle}
-                </p>
-            )}
-            {props.text && (
-                <Markdown
-                    options={{ forceBlock: true, forceWrapper: true }}
-                    className={classNames('sb-markdown', 'sm:text-lg', styles.text ? mapStyles(styles.text) : null, { 'mt-6': props.title || props.subtitle })}
-                    data-sb-field-path=".text"
-                >
-                    {props.text}
-                </Markdown>
-            )}
-        </div>
-    );
+function ContactForm() {
+  const [state, handleSubmit] = useForm("xpzkgjlz");
+  if (state.succeeded) {
+      return <p>Thanks for joining!</p>;
+  }
+  return (
+      <form onSubmit={handleSubmit}>
+      <label htmlFor="email">
+        Email Address
+      </label>
+      <input
+        id="email"
+        type="email" 
+        name="email"
+      />
+      <ValidationError 
+        prefix="Email" 
+        field="email"
+        errors={state.errors}
+      />
+      <textarea
+        id="message"
+        name="message"
+      />
+      <ValidationError 
+        prefix="Message" 
+        field="message"
+        errors={state.errors}
+      />
+      <button type="submit" disabled={state.submitting}>
+        Submit
+      </button>
+    </form>
+  );
+}
+function App() {
+  return (
+    <ContactForm />
+  );
 }
 
 function mapMinHeightStyles(height) {
