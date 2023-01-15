@@ -12,7 +12,9 @@ sections:
     colors: colors-h
     backgroundSize: full
     title: Nous contacter
-    text: We look forward to hearing from you.
+    text: >
+      Merci de votre interêt pour nos formations. Rezo'preneurs pour les
+      entrepreneurs d'aujourd'hui.
     form:
       type: FormBlock
       variant: variant-a
