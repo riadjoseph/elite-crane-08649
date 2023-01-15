@@ -22,11 +22,7 @@ sections:
     text: >
       L'anglais est devenue la langue la plus utilisée dans le monde du travail
       et pour la communication internationale.
-    actions:
-      - type: Button
-        label: Sign Up
-        url: /
-        style: primary
+    actions: []
     media:
       type: ImageBlock
       url: /images/hero.png
