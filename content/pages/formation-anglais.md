@@ -59,7 +59,7 @@ sections:
         justifyContent: flex-start
   - type: TextSection
     colors: colors-a
-    title: Formation Anglais
+    title: Détails
     styles:
       self:
         height: auto
