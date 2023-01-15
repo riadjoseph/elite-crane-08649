@@ -91,7 +91,7 @@ sections:
       Contactez-nous pour recevoir le programme détaillé et les dates.
     actions:
       - type: Button
-        label: Try it now
+        label: Contact
         url: /
         style: primary
     backgroundImage: null
