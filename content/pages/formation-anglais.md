@@ -92,7 +92,7 @@ sections:
     actions:
       - type: Button
         label: Contact
-        url: /
+        url: /contactus
         style: primary
         altText: Contact
     backgroundImage: null
