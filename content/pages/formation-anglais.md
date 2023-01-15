@@ -94,6 +94,7 @@ sections:
         label: Contact
         url: /
         style: primary
+        altText: Contact
     backgroundImage: null
     styles:
       self:
