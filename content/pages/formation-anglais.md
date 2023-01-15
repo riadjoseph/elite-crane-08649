@@ -86,7 +86,7 @@ sections:
     elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: Let's do this
+    title: Je m'informe
     text: >-
       The Stackbit theme is flexible and scalable to every need. It can manage
       any layout and any screen.
