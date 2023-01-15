@@ -13,7 +13,7 @@ sections:
     title: Formation Anglais
     subtitle: ''
     badge:
-      label: This is the badge
+      label: Rezopreneurs
       elementId: ''
       styles:
         self:
