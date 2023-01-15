@@ -55,10 +55,6 @@ sections:
   - type: TextSection
     colors: colors-a
     title: Formation Anglais
-    subtitle: >-
-      Beaucoup d’entreprises se développent à l’étranger ou tissent des liens
-      professionnels nécessaire à leur projet. C’est pourquoi il est important
-      d’être capable de comprendre l’anglais et communiquer efficacement.
     styles:
       self:
         height: auto
