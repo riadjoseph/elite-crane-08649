@@ -87,9 +87,8 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: Je m'informe
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
+    text: |
+      Contactez-nous pour recevoir le programme détaillé et les dates.
     actions:
       - type: Button
         label: Try it now
