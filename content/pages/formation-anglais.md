@@ -25,7 +25,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/hero.png
+      url: /images/carla.jpg
       altText: Hero image
     styles:
       self:
