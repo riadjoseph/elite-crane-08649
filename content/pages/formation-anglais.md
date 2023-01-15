@@ -58,7 +58,7 @@ sections:
       actions:
         justifyContent: flex-start
   - type: TextSection
-    colors: colors-a
+    colors: colors-h
     title: Détails
     styles:
       self:
