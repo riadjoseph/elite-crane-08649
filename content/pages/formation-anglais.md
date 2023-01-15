@@ -10,7 +10,7 @@ sections:
   - type: HeroSection
     elementId: ''
     colors: colors-a
-    title: Love where you work
+    title: Formation Anglais
     subtitle: ''
     badge:
       label: This is the badge
