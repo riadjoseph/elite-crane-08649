@@ -26,7 +26,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/carla.jpg
-      altText: Hero image
+      altText: Formation Anglais avec Carla
     styles:
       self:
         height: auto
