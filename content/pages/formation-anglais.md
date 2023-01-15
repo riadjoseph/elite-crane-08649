@@ -11,8 +11,11 @@ sections:
     colors: colors-a
     title: Formation Anglais
     subtitle: >-
-      Start adding sections by clicking the + button on the page or though the
-      sidebar.
+      L'anglais est devenue la langue la plus utilisée dans le monde du travail
+      et pour la communication internationale. Beaucoup d’entreprises se
+      développent à l’étranger ou tissent des liens professionnels nécessaire à
+      leur projet. C’est pourquoi il est important d’être capable de comprendre
+      l’anglais et communiquer efficacement.
     styles:
       self:
         height: auto
