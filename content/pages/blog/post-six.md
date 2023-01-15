@@ -76,6 +76,7 @@ bottomSections:
         justifyContent: center
     type: RecentPostsSection
 layout: PostLayout
+date: '2023-01-14'
 ---
 **Public** : Tous publics
 
