@@ -294,9 +294,6 @@ sections:
     elementId: ''
     items:
       - title: Anglais
-        text: >
-          Learn how top tech companies have learned working remote using our
-          product.
         featuredImage:
           url: /images/faster.svg
           altText: altText of the image
