@@ -306,7 +306,15 @@ sections:
             self:
               opacity: 100
           type: ImageBlock
-        actions: []
+        actions:
+          - type: Link
+            label: Learn more
+            altText: ''
+            url: /formation-anglais
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            elementId: ''
         styles:
           self:
             textAlign: left
