@@ -35,7 +35,8 @@
                 "altText": "CONTACT",
                 "style": "primary",
                 "showIcon": true,
-                "icon": "mail"
+                "icon": "mail",
+                "iconPosition": "right"
             }
         ],
         "styles": {
