@@ -305,7 +305,7 @@ sections:
           type: ImageBlock
         actions:
           - type: Link
-            label: Voir la formation
+            label: 'Formation '
             altText: ''
             url: /formation-anglais
             showIcon: false
