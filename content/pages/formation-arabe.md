@@ -10,7 +10,7 @@ sections:
   - type: HeroSection
     elementId: ''
     colors: colors-a
-    title: Formation Arabe
+    title: Formation en Arabe
     subtitle: ''
     badge:
       label: Rezopreneurs
