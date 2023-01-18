@@ -63,7 +63,7 @@ sections:
           placeholder: Votre message...
           isRequired: false
           width: full
-      submitLabel: Send Message
+      submitLabel: ENVOYER
     media: null
     styles:
       self:
