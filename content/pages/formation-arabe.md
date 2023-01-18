@@ -106,7 +106,6 @@ sections:
         title: 3. Être à l’aise dans la vie courante
       - type: FeaturedItem
         elementId: ''
-        title: 4. Les bases de l’arabe professionnel
         subtitle: ''
         text: >-
           * Se familiariser à l’arabe utilisé avec les prestataires/clients ou
