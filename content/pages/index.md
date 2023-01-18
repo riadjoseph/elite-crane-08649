@@ -613,7 +613,7 @@ sections:
         justifyContent: flex-start
     type: FeatureHighlightSection
   - type: FaqSection
-    colors: colors-a
+    colors: colors-f
     elementId: ''
     title: Questions fréquentes
     subtitle: null
