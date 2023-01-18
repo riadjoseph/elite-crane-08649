@@ -176,19 +176,18 @@ sections:
     title: 'Objectifs :'
     subtitle: ''
     text: >+
-      • Communiquer à l'oral comme à l'écrit dans des situations simples de la
+      *   Communiquer à l'oral comme à l'écrit dans des situations simples de la
       vie quotidienne (se présenter, se
+          faire comprendre dans les restaurants, les transports ou à l’hôtel)
 
-      faire comprendre dans les restaurants, les transports ou à l’hôtel)
-
-      • Acquérir les bases de l’arabe professionnel (échanger avec un
+      *   Acquérir les bases de l’arabe professionnel (échanger avec un
       prestataire/client étranger, échanger par
+          email, en équipe lors d’une réunion ou call)
 
-      email, en équipe lors d’une réunion ou call)
+      *   Gagner en confiance au niveau de la compréhension
 
-      • Gagner en confiance au niveau de la compréhension
 
-      • Acquérir des connaissance solides de vocabulaire et de grammaire
+      *   Acquérir des connaissance solides de vocabulaire et de grammaire
 
     styles:
       self:
