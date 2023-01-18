@@ -74,10 +74,16 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: 2. Les bases de l’arabe
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: >
+          *   Apprendre les bases de l’arabe niveau grammaire
+
+          *   Apprendre du vocabulaire utile dans la vie
+          courante/professionnelle
+
+          *   Visionner des vidéos pour améliorer sa compréhension orale sur
+          différents thèmes (info TV,
+              reportage, interview, extrait films, motivational speech, business talk show…)
+          *   Participer à une conversation orale simple
         featuredImage: null
         styles:
           self:
