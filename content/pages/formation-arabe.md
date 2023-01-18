@@ -93,6 +93,7 @@ sections:
         url: /contactus
         style: primary
         altText: Contact
+        showIcon: true
     backgroundImage: null
     styles:
       self:
