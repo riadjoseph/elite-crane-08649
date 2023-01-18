@@ -612,48 +612,6 @@ sections:
       actions:
         justifyContent: flex-start
     type: FeatureHighlightSection
-  - elementId: ''
-    colors: colors-a
-    variant: variant-b
-    title: >-
-      Outre que les modules de formations, vous trouverez ces articles
-      pertinents à vos besoins actuellement
-    actions:
-      - type: Link
-        label: voir tous les guides pour la création d'entreprise
-        url: /blog
-        showIcon: true
-        icon: arrowRight
-    posts:
-      - content/pages/blog/post-four.md
-      - content/pages/blog/post-three.md
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-0
-          - pb-36
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderRadius: none
-        borderWidth: 0
-        borderStyle: none
-        borderColor: border-dark
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    type: FeaturedPostsSection
-    showDate: true
   - colors: colors-f
     elementId: ''
     title: Des réponses à vos questions
