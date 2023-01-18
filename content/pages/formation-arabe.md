@@ -145,7 +145,7 @@ sections:
       actions:
         justifyContent: center
   - type: TextSection
-    colors: colors-h
+    colors: colors-a
     title: Détails
     styles:
       self:
