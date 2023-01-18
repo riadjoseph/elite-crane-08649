@@ -623,7 +623,7 @@ sections:
         altText: Nous contacter
         url: /contactus
         showIcon: true
-        icon: mail
+        icon: chevronRight
         iconPosition: right
         elementId: ''
     items:
