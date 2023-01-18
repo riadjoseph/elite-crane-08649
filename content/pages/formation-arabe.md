@@ -58,7 +58,7 @@ sections:
   - type: FeaturedItemsSection
     colors: colors-h
     elementId: ''
-    title: Key value propositions
+    title: Programme de la formation en langue Arabe
     subtitle: ''
     items:
       - type: FeaturedItem
