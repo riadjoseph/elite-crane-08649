@@ -106,7 +106,7 @@ sections:
         title: 3. Être à l’aise dans la vie courante
       - type: FeaturedItem
         elementId: ''
-        title: Item Title
+        title: 4. Les bases de l’arabe professionnel
         subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
