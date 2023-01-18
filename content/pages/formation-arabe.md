@@ -20,13 +20,11 @@ sections:
           textAlign: left
       type: Badge
     text: >
-      L'anglais est devenue la langue la plus utilisée dans le monde du travail
-      et pour la communication internationale.
-
-
-      Beaucoup d’entreprises se développent à l’étranger ou tissent des liens
-      professionnels nécessaire à leur projet. C’est pourquoi il est important
-      d’être capable de comprendre l’anglais et communiquer efficacement.
+      L’arabe est la troisième langue la plus parlée dans le monde. Cette langue
+      séduit de plus en plus de français qui se lancent chaque année dans son
+      apprentissage. Si vous souhaitez tisser des liens commerciaux avec
+      l’Afrique du nord ou le moyen-orient, l’arabe est un réel atout pour votre
+      activité.
     actions: []
     media:
       type: ImageBlock
