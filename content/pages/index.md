@@ -438,8 +438,8 @@ sections:
         type: FeaturedItem
       - title: L'Arabe et comprendre la culture
         text: >
-          Learn how top tech companies have learned working remote using our
-          product.
+          Si vous souhaitez tisser des liens commerciaux avec l’Afrique du nord
+          ou le moyen-orient, l’arabe est un réel atout pour votre activité.
         featuredImage:
           url: /images/smarter.svg
           altText: altText of the image
