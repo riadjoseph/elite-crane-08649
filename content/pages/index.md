@@ -452,7 +452,7 @@ sections:
         actions:
           - type: Link
             label: Formation Arabe
-            altText: ''
+            altText: Formation Arabe
             url: /formation-arabe
             showIcon: false
             icon: arrowRight
