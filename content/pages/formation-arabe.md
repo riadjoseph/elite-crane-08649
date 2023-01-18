@@ -63,10 +63,11 @@ sections:
     items:
       - type: FeaturedItem
         title: 1. Faisons connaissance
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: >
+          *   Se présenter
+
+          *   Parler de son travail, de ses activités quotidiennes (ses centres
+          d’intérêts, projets…)
         featuredImage: null
         styles:
           self:
