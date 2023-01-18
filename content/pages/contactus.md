@@ -54,7 +54,7 @@ sections:
             - Autre sujet
             - Anglais
             - Arabe
-          isRequired: false
+          isRequired: true
           width: full
       submitLabel: Send Message
     media: null
