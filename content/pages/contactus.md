@@ -41,7 +41,7 @@ sections:
           isRequired: 'false'
           width: full
         - type: CheckboxFormControl
-          name: updates
+          name: Consent
           label: Sign me up to receive updates
           isRequired: 'false'
           width: full
