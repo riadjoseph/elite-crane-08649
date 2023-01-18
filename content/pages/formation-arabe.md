@@ -103,6 +103,7 @@ sections:
         styles:
           self:
             textAlign: left
+        title: 3. Être à l’aise dans la vie courante
       - type: FeaturedItem
         elementId: ''
         title: Item Title
