@@ -47,7 +47,7 @@ sections:
           width: full
         - type: SelectFormControl
           name: Formation
-          label: City
+          label: Formation
           hideLabel: false
           defaultValue: Please choose...
           options:
