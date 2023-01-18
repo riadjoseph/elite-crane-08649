@@ -89,7 +89,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: Focused
+        title: 3. Être à l’aise dans la vie courante
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
