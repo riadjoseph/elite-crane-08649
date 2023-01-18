@@ -42,7 +42,7 @@
         "case": "none",
         "letterSpacing": "normal"
     },
-    "main": "#f6f1ed",
+    "main": "#fff",
     "light": "#ffffff",
     "onLight": "#000000",
     "dark": "#282828",
