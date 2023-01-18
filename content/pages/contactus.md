@@ -51,7 +51,7 @@ sections:
           hideLabel: false
           defaultValue: Faites votre choix...
           options:
-            - Arabe
+            - Autre sujet
             - Anglais
             - lorem-ipsum
           isRequired: false
