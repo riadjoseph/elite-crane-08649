@@ -60,7 +60,7 @@ sections:
           name: Votre message
           label: Votre message
           hideLabel: false
-          placeholder: Votre message
+          placeholder: Votre message...
           isRequired: false
           width: full
       submitLabel: Send Message
