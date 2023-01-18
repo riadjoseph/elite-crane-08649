@@ -91,9 +91,15 @@ sections:
       - type: FeaturedItem
         title: 3. Être à l’aise dans la vie courante
         text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+          * Demander sa direction
+
+          * Communiquer à l’aéroport, à l’hôtel, au restaurant (réservation,
+          prise de commande…)
+
+          * Gérer des situations compliquées de la vie courante (annulation
+          vol/chambre d’hôtel,
+
+          remboursement/échange d’un achat…)
         featuredImage: null
         styles:
           self:
