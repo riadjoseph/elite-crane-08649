@@ -58,7 +58,7 @@ sections:
   - type: FeaturedItemsSection
     colors: colors-h
     elementId: ''
-    title: Programme de la formation en langue Arabe
+    title: Programme de la formation en langue arabe
     subtitle: ''
     items:
       - type: FeaturedItem
