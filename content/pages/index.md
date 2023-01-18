@@ -612,6 +612,73 @@ sections:
       actions:
         justifyContent: flex-start
     type: FeatureHighlightSection
+  - type: FaqSection
+    colors: colors-a
+    elementId: ''
+    title: Questions fréquentes
+    subtitle: null
+    actions: []
+    items:
+      - question: 1/ Quelles formations peut-on faire grâce au CPF ?
+        answer: >
+          Le CPF vous donne droit à diverses formations reconnues par l'État
+          dans de nombreux domaines tels que : le management, la finance, le
+          droit, la communication et les réseaux sociaux, l'informatique etc.
+        type: FaqItem
+      - question: '2/ Quelles formations pour devenir autoentrepreneur ? '
+        answer: >
+          Cela dépend de votre projet professionnel. Rezo’Preneurs vous aide à
+          acquérir des bases solides qui sont nécessaires dans la construction
+          de votre projet, de la simple idée au lancement du projet. Par exemple
+          il vous faut choisir un statut juridique correspondant le plus à votre
+          activité, être capable de faire une étude approfondie de votre projet,
+          comment communiquer avec vos futurs clients, comment assurer une
+          gestion efficace de votre projet.
+        type: FaqItem
+      - question: >-
+          3/ Je souhaite faire une formation courte mais compétente que choisir
+          ?
+        answer: >
+          Nos formations sont dispensées par des coachs compétents et eux-mêmes
+          entrepreneurs. Vous serez donc formés pendant 10 jours sur diverses
+          thématiques complètes et variées. Et si vous le souhaitez, vous pouvez
+          obtenir gratuitement un accompagnement personnalisé par l'un de nos
+          coachs.
+        type: FaqItem
+      - question: 4/ Comment savoir si je suis éligible au CFP ?
+        answer: >
+          Sur le site
+          https://www.moncompteformation.gouv.fr/espace-prive/html/#/ vous
+          pouvez prendre connaissance de votre solde de formation disponible sur
+          votre compte. Ensuite, il ne vous reste plus qu'à choisir vos
+          formations.
+        type: FaqItem
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-32
+          - pb-12
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderRadius: none
+        borderWidth: 0
+        borderStyle: none
+        borderColor: border-dark
+      title:
+        textAlign: left
+      subtitle:
+        fontWeight: '400'
+        textAlign: left
+      actions:
+        justifyContent: flex-start
   - colors: colors-f
     elementId: ''
     title: Des réponses à vos questions
