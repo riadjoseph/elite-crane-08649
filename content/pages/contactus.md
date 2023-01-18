@@ -58,7 +58,7 @@ sections:
           width: full
         - type: TextareaFormControl
           name: Votre message
-          label: Description
+          label: Votre message
           hideLabel: false
           placeholder: Please describe
           isRequired: false
