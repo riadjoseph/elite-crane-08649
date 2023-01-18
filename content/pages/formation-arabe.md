@@ -109,9 +109,13 @@ sections:
         title: 4. Les bases de l’arabe professionnel
         subtitle: ''
         text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+          * Se familiariser à l’arabe utilisé avec les prestataires/clients ou
+          lors d’échanges en équipe
+
+          * Être capable de rédiger et comprendre des documents et mails
+          (facture, bon de commande, devis…)
+
+          * S’entraîner à tenir une discussion lors d’une réunion ou d’un call
         actions: []
         styles:
           self:
