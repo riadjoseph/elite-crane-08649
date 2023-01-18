@@ -42,7 +42,7 @@ sections:
           width: full
         - type: CheckboxFormControl
           name: Consent
-          label: Sign me up to receive updates
+          label: 'Je donne mon consentement pour '
           isRequired: 'false'
           width: full
         - type: SelectFormControl
