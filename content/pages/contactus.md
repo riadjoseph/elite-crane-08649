@@ -52,7 +52,7 @@ sections:
           defaultValue: Faites votre choix...
           options:
             - Arabe
-            - San Francisco
+            - Anglais
           isRequired: false
           width: full
       submitLabel: Send Message
