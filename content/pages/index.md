@@ -622,7 +622,7 @@ sections:
         label: Nous contacter
         altText: Nous contacter
         url: /contactus
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         elementId: ''
