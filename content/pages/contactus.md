@@ -53,7 +53,7 @@ sections:
           options:
             - Autre sujet
             - Anglais
-            - lorem-ipsum
+            - Arabe
           isRequired: false
           width: full
       submitLabel: Send Message
