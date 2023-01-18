@@ -533,7 +533,7 @@ sections:
     actions:
       - type: Link
         label: En savoir plus
-        url: /
+        url: /contactus
         showIcon: true
         icon: arrowRight
         iconPosition: right
