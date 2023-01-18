@@ -71,7 +71,7 @@ sections:
         featuredImage: null
         styles:
           self:
-            textAlign: center
+            textAlign: left
       - type: FeaturedItem
         title: Smarter
         text: >-
