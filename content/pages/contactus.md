@@ -42,7 +42,7 @@ sections:
           width: full
         - type: CheckboxFormControl
           name: Consent
-          label: Je donne mon consentement pour être contacté
+          label: Je donne mon consentement pour être contacté(
           isRequired: 'false'
           width: full
         - type: SelectFormControl
