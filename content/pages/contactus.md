@@ -56,6 +56,13 @@ sections:
             - Arabe
           isRequired: true
           width: full
+        - type: TextareaFormControl
+          name: Votre message
+          label: Description
+          hideLabel: false
+          placeholder: Please describe
+          isRequired: false
+          width: full
       submitLabel: Send Message
     media: null
     styles:
