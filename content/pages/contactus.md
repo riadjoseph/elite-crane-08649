@@ -38,7 +38,7 @@ sections:
           name: Votre téléphone
           label: Votre téléphone
           placeholder: Votre téléphone
-          isRequired: 'false'
+          isRequired: true
           width: full
         - type: CheckboxFormControl
           name: Consent
