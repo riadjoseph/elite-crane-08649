@@ -51,7 +51,7 @@ sections:
           hideLabel: false
           defaultValue: Faites votre choix...
           options:
-            - For
+            - Arabe
             - San Francisco
           isRequired: false
           width: full
