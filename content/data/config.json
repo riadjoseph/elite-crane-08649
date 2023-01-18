@@ -34,7 +34,8 @@
                 "url": "/",
                 "altText": "CONTACT",
                 "style": "primary",
-                "showIcon": true
+                "showIcon": true,
+                "icon": "mail"
             }
         ],
         "styles": {
