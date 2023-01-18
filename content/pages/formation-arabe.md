@@ -28,7 +28,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/carla.jpg
+      url: /images/rawan-yasser-wdPP498hHQ4-unsplash.jpg
       altText: Formation Anglais avec Carla
     styles:
       self:
