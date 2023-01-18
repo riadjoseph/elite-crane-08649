@@ -451,7 +451,7 @@ sections:
           type: ImageBlock
         actions:
           - type: Link
-            label: Learn more
+            label: Formation Arabe
             altText: ''
             url: /formation-arabe
             showIcon: false
