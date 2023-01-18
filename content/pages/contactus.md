@@ -23,7 +23,7 @@ sections:
       destination: ''
       fields:
         - type: TextFormControl
-          name: name
+          name: Nom et prénom
           label: Name
           placeholder: Your name
           isRequired: 'true'
