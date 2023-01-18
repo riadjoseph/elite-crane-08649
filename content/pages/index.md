@@ -619,7 +619,7 @@ sections:
     subtitle: null
     actions:
       - type: Link
-        label: Learn more
+        label: Nous contacter
         altText: ''
         url: /contactus
         showIcon: false
