@@ -436,7 +436,7 @@ sections:
               - pb-6
               - pr-4
         type: FeaturedItem
-      - title: L'Arabe et comprendre la culture
+      - title: Formation en langue Arabe
         text: >
           Si vous souhaitez tisser des liens commerciaux avec l’Afrique du nord
           ou le moyen-orient, l’arabe est un réel atout pour votre activité.
