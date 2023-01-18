@@ -103,7 +103,7 @@ sections:
         actions: []
         styles:
           self:
-            textAlign: center
+            textAlign: left
     actions: []
     columns: 1
     enableHover: false
