@@ -576,7 +576,7 @@ sections:
       compétences pédagogiques et leur connaissance de l'entreprise.
     actions:
       - type: Link
-        url: /contact
+        url: /contactus
         showIcon: true
         icon: arrowRight
         iconPosition: right
