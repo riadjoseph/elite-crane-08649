@@ -33,7 +33,8 @@
                 "label": "CONTACT",
                 "url": "/",
                 "altText": "CONTACT",
-                "style": "primary"
+                "style": "primary",
+                "showIcon": true
             }
         ],
         "styles": {
