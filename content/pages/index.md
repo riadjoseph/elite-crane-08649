@@ -620,7 +620,7 @@ sections:
     actions:
       - type: Link
         label: Nous contacter
-        altText: ''
+        altText: Nous contacter
         url: /contactus
         showIcon: false
         icon: arrowRight
