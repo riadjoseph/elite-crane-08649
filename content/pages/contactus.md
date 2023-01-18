@@ -29,7 +29,7 @@ sections:
           isRequired: true
           width: 1/2
         - type: EmailFormControl
-          name: 'Votre '
+          name: Votre courriel
           label: Email
           placeholder: Your email
           isRequired: true
