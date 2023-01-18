@@ -175,13 +175,21 @@ sections:
     colors: colors-a
     title: 'Objectifs :'
     subtitle: ''
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: >+
+      • Communiquer à l'oral comme à l'écrit dans des situations simples de la
+      vie quotidienne (se présenter, se
+
+      faire comprendre dans les restaurants, les transports ou à l’hôtel)
+
+      • Acquérir les bases de l’arabe professionnel (échanger avec un
+      prestataire/client étranger, échanger par
+
+      email, en équipe lors d’une réunion ou call)
+
+      • Gagner en confiance au niveau de la compréhension
+
+      • Acquérir des connaissance solides de vocabulaire et de grammaire
+
     styles:
       self:
         height: auto
