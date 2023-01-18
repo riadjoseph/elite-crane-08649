@@ -89,7 +89,6 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: 3. Être à l’aise dans la vie courante
         text: >-
           * Demander sa direction
 
