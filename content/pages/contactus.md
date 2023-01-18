@@ -26,7 +26,7 @@ sections:
           name: Nom et prénom
           label: Nom et prénom
           placeholder: Nom et prénom
-          isRequired: 'true'
+          isRequired: true
           width: 1/2
         - type: EmailFormControl
           name: email
