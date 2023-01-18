@@ -49,7 +49,7 @@ sections:
           name: Formation
           label: Formation
           hideLabel: false
-          defaultValue: Please choose...
+          defaultValue: Faites votre choix...
           options:
             - New York
             - San Francisco
