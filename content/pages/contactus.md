@@ -30,7 +30,7 @@ sections:
           width: 1/2
         - type: EmailFormControl
           name: Votre adresse email
-          label: Email
+          label: Votre adresse email
           placeholder: Your email
           isRequired: true
           width: 1/2
