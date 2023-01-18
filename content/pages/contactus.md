@@ -51,7 +51,7 @@ sections:
           hideLabel: false
           defaultValue: Faites votre choix...
           options:
-            - New York
+            - For
             - San Francisco
           isRequired: false
           width: full
