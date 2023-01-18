@@ -5,7 +5,7 @@ metaDescription: null
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-title: Formation Anglais
+title: Formation Arabe
 sections:
   - type: HeroSection
     elementId: ''
