@@ -624,7 +624,7 @@ sections:
         url: /contactus
         showIcon: true
         icon: mail
-        iconPosition: right
+        iconPosition: left
         elementId: ''
     items:
       - question: 1/ Quelles formations peut-on faire grâce au CPF ?
