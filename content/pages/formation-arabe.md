@@ -94,6 +94,7 @@ sections:
         style: primary
         altText: Contact
         showIcon: true
+        icon: mail
     backgroundImage: null
     styles:
       self:
