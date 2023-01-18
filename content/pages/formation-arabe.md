@@ -119,6 +119,7 @@ sections:
         styles:
           self:
             textAlign: left
+        title: 4. Les bases de l’arabe professionnel
     actions: []
     columns: 1
     enableHover: false
