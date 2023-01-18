@@ -45,6 +45,16 @@ sections:
           label: Sign me up to receive updates
           isRequired: 'false'
           width: full
+        - type: SelectFormControl
+          name: Formation
+          label: City
+          hideLabel: false
+          defaultValue: Please choose...
+          options:
+            - New York
+            - San Francisco
+          isRequired: false
+          width: full
       submitLabel: Send Message
     media: null
     styles:
