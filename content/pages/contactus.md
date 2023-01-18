@@ -37,7 +37,7 @@ sections:
         - type: TextFormControl
           name: Votre téléphone
           label: Votre téléphone
-          placeholder: Your home address
+          placeholder: Votre téléphone
           isRequired: 'false'
           width: full
         - type: CheckboxFormControl
