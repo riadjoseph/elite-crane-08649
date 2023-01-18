@@ -95,6 +95,7 @@ sections:
         altText: Contact
         showIcon: true
         icon: mail
+        iconPosition: left
     backgroundImage: null
     styles:
       self:
