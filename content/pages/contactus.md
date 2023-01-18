@@ -25,7 +25,7 @@ sections:
         - type: TextFormControl
           name: Nom et prénom
           label: Nom et prénom
-          placeholder: Your name
+          placeholder: Nom et prénom
           isRequired: 'true'
           width: 1/2
         - type: EmailFormControl
