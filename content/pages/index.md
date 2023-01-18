@@ -617,7 +617,15 @@ sections:
     elementId: ''
     title: Questions fréquentes
     subtitle: null
-    actions: []
+    actions:
+      - type: Link
+        label: Learn more
+        altText: ''
+        url: /contactus
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
     items:
       - question: 1/ Quelles formations peut-on faire grâce au CPF ?
         answer: >
