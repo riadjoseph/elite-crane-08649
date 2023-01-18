@@ -62,7 +62,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: '1. Faisons '
+        title: 1. Faisons connaissance
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
