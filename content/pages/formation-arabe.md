@@ -173,7 +173,7 @@ sections:
   - type: TextSection
     elementId: ''
     colors: colors-a
-    title: The Section Title
+    title: 'Objectifs :'
     subtitle: ''
     text: >-
       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
